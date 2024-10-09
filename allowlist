@@ -13,10 +13,10 @@ oauth2.googleapis.com #authentication and authorization#
 firebaseremoteconfig.googleapis.com #remote configuration for Firebase apps#
 cloudfunctions.net #Google Cloud Functions#
 translate.googleapis.com #Google Translate API#
-# Advertising and Analytics
-doubleclick.net #advertising and ad tracking#
-ads.google.com #Google Ads services#
-adservices.google.com #ad delivery and analytics#
+# Advertising and Analytics #all disabled by default
+#doubleclick.net #advertising and ad tracking#
+#ads.google.com #Google Ads services#
+#adservices.google.com #ad delivery and analytics#
 google-analytics.com #Google Analytics tracking#
 # Google Cloud Services
 cloud.google.com #Google Cloud services and resources#
@@ -168,7 +168,6 @@ secure.netflix.com #used for secure connections and user authentication#
 nflxext.com #for extended services like testing#
 
 ### Reddit
-reddit.com
 reddit.com
 i.redd.it
 external-preview.redd.it
