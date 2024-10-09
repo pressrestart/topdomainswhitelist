@@ -401,3 +401,18 @@ fandom.com #Main portal for Fandom's wiki and community services#
 fandom-static.com #Fandom's content delivery network for static assets and resources#  
 wikia-services.com #Supporting services and media hosting for Fandom (formerly Wikia)#  
 fandom.wikia.com #Legacy CDN and supporting services from Wikia#  
+
+### Bing  
+# Core Bing Services  
+bing.com #Main portal for Bing's search engine and services#
+# Bing CDN and Supporting Services  
+bing.net #Content delivery network for Bing's search engine assets and resources#  
+virtualearth.net #CDN used for Bing Maps tiles and data#  
+microsoft.com #Related services and support for Bing (since it’s owned by Microsoft)#  
+
+### DuckDuckGo  
+# Core DuckDuckGo Services  
+duckduckgo.com #Main portal for DuckDuckGo's privacy-focused search engine#
+# DuckDuckGo CDN and Supporting Services  
+duckduckgocdn.com #Content delivery network for DuckDuckGo assets and resources#  
+ddg.gg #Shortened URL and redirection service used by DuckDuckGo#  
