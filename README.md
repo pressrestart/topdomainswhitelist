@@ -12,39 +12,7 @@ Whitelisting allows users to block all internet traffic except to specific domai
 If you think a domain should be added or removed from the list, feel free to open an issue or submit a pull request with your suggestion.
 
 ## Domains
-Google
-Youtube
-Amazon
-TikTok
-GitHub
-Disney+
-Netflix
-Reddit
-Twitter
-WhatsApp
-Facebook
-Wikipedia
-Instagram
-Discord
-Baidu
-Yahoo
-Zoom.us
-Pinterest
-Microsoft
-Apple
-LinkedIn
-eBay
-PayPal
-Twitch
-Adobe
-Shopify
-CNN
-Telegram
-ChatGPT
-LinkedIn
-Microsoft Office  
-Weather.com  
-Quora  
+Google, Youtube, Amazon, Microsoft, Apple, TikTok, GitHub, Disney+, Netflix, Reddit, Twitter, WhatsApp, Facebook, Wikipedia, Instagram, Discord, Baidu, Yahoo, Zoom, Pinterest, LinkedIn, eBay, PayPal, Twitch, Adobe, Shopify, CNN, Telegram, ChatGPT, Microsoft Office, Weather.com, Quora  
 
 ## License
 
