@@ -1,0 +1,394 @@
+### Google
+# Core Google Services
+google.com #core services and search functionality#
+gstatic.com #static content and resources, including fonts and libraries#
+ggpht.com #Google Photos and profile image hosting#
+# Google APIs and Services #specific subdomains#
+maps.googleapis.com #Google Maps API#
+fonts.googleapis.com #Google Fonts API#
+ajax.googleapis.com #used for serving JavaScript libraries#
+#storage.googleapis.com #for data storage and app resources#. Disabled by default.
+safebrowsing.googleapis.com #Google Safe Browsing service#
+oauth2.googleapis.com #authentication and authorization#
+firebaseremoteconfig.googleapis.com #remote configuration for Firebase apps#
+cloudfunctions.net #Google Cloud Functions#
+translate.googleapis.com #Google Translate API#
+# Advertising and Analytics
+doubleclick.net #advertising and ad tracking#
+ads.google.com #Google Ads services#
+adservices.google.com #ad delivery and analytics#
+google-analytics.com #Google Analytics tracking#
+# Google Cloud Services
+cloud.google.com #Google Cloud services and resources#
+firebase.google.com #Firebase backend services#
+appspot.com #Google App Engine hosting#
+cloudflare.net #occasionally used in conjunction with Google services#
+# Regional and Specific Product Domains
+mail.google.com #Gmail services#
+news.google.com #Google News#
+drive.google.com #Google Drive#
+docs.google.com #Google Docs#
+photos.google.com #Google Photos#
+# Tracking and Security Services
+recaptcha.net #Google reCAPTCHA service#
+#apis.google.com #general API usage for Google services#. Disabled by default.
+clients3.google.com #used for client-specific settings and connectivity#
+# Google Play Store
+play-fe.googleapis.com
+android.l.google.com
+connectivitycheck.gstatic.com
+gvt1.com
+gvt2.com
+play.google.com
+android.clients.google.com
+ssl.gstatic.com
+play.googleapis.com
+lh3.googleusercontent.com
+ggpht.com
+
+### Youtube
+# Core YouTube Services
+youtube.com
+youtu.be #shortened URL for sharing YouTube links#
+googlevideo.com #used for video streaming and content delivery#
+ytimg.com #YouTube’s CDN for images, thumbnails, and static content#
+youtubei.googleapis.com #interface for YouTube data and video metadata#
+# Content Delivery Networks #CDN# and Media Hosting
+pds-redirector-prod2.s3.amazonaws.com #sometimes used for redirecting traffic through Amazon S3#
+# Advertising and Tracking
+doubleclick.net #for serving ads on YouTube#
+youtube-nocookie.com #an alternate version of YouTube that does not use cookies for tracking#
+# Google APIs and Services #specific to YouTube#
+youtube.googleapis.com #API for interacting with YouTube data#
+video-stats.l.google.com #for tracking video playback statistics#
+s.ytimg.com #static content and JavaScript files#
+# Analytics and User Data
+yt3.ggpht.com #used for profile images and user-generated content#
+ytstatic.l.google.com #for static resources#
+clients1.google.com #for network connectivity and client-specific settings#
+clients2.google.com
+# Chromecast Setup and Device Communication
+cast.googleapis.com #core API for casting and device communication#
+device-provisioning.googleapis.com #used during device setup and registration#
+devicesettings-pa.googleapis.com #for fetching and updating device settings#
+clients3.googleapis.com #network connectivity checks#
+# Media and Streaming Services
+youtubei.googleapis.com #for interfacing with YouTube when casting videos#
+storage.googleapis.com #for retrieving media and software updates#
+firebaseremoteconfig.googleapis.com #used to fetch app configuration remotely#
+# Cloud and Data Storage Services
+firebaseinstallations.googleapis.com #used for device instance identification#
+firebase.googleapis.com #for communication between the app and Firebase backend#
+
+### Amazon
+# Amazon Retail and Shopping
+amazon.com
+images-amazon.com
+media-amazon.com
+ssl-images-amazon.com
+d1rkri3twj3jp7.cloudfront.net
+d3hfiwkhxouso6.cloudfront.net
+images-na.ssl-images-amazon.com
+# Amazon Prime Video
+primevideo.com
+dp8hsntg6do36.cloudfront.net
+d3c7rimkq79yfu.cloudfront.net
+d1w2poirtb3as9.cloudfront.net
+# Content Delivery Networks #CDN# and Media Hosting
+cloudfront.net
+amazonaws.com #Amazon Web Services#
+s3.amazonaws.com #Amazon S3 buckets#
+ec2.amazonaws.com #Amazon EC2 services#
+# Advertising and Tracking
+amazon-adsystem.com
+adapi.amazon.com
+aax-us-east.amazon-adsystem.com
+fls-na.amazon.com
+d5nxst8fruw4z.cloudfront.net
+d3p8zr0ffa9t17.cloudfront.net
+# Amazon Web Services #AWS# and Related Services
+aws.amazon.com
+dynamodb.amazonaws.com
+rds.amazonaws.com
+d1aws82991uj.cloudfront.net
+sdk.amazonaws.com
+# Third-Party Services and APIs
+a2z.com
+alexa.com #Amazon's web traffic analysis service#
+kindle.com
+# Regional Amazon Domains
+amazon.co.uk
+amazon.ca
+amazon.de
+amazon.fr
+amazon.in
+amazon.com.br
+
+### TikTok
+# Content Delivery Networks #CDN# and Media Hosting
+tiktokcdn.com
+tiktokcdn-live.com
+bytecdn.cn
+byteoversea.com
+ibyteimg.com
+# Tracking and Analytics
+tiktokv.com
+ttwstatic.com
+log.tiktokv.com
+# Third-Party Services and APIs
+muscdn.com #historically associated with Musical.ly, now used by TikTok#
+bytedance.com #TikTok's parent company#
+bytedance.net
+p16-tiktokcdn-com.akamaized.net #for hosting and CDN purposes#
+
+###  GitHub
+# Core GitHub Services
+github.com #core GitHub services and repository hosting#  
+github.io #GitHub Pages for hosting static websites#  
+gist.github.com #GitHub Gists for sharing code snippets#  
+githubusercontent.com #for serving content directly from GitHub#  
+githubassets.com
+# GitHub Actions and CI/CD Services
+github-actions.com #for GitHub Actions services#  
+
+### Disney+
+# Core Disney+ Services
+www.disneyplus.com #main website for Disney+ streaming service, offering movies, TV shows, and original content#  
+dssott.com #used for streaming video content, serving as a CDN for Disney+#  
+d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Disney+ content efficiently#  
+disneyplus-static.com #serves static assets like images and scripts for the Disney+ platform#  
+
+### Netflix
+# Core Netflix Services
+www.netflix.com #main website for Netflix streaming service, offering movies, TV shows, and original content#  
+nflximg.net #used for serving images and video thumbnails#  
+nflxvideo.net #used for streaming video content#  
+d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Netflix content efficiently#  
+secure.netflix.com #used for secure connections and user authentication#  
+nflxext.com #for extended services like testing#
+
+### Reddit
+reddit.com
+reddit.com
+i.redd.it
+external-preview.redd.it
+preview.redd.it
+video.redd.it
+redditstatic.com
+
+### Twitter
+twimg.com
+twitter.com
+x.com
+
+### WhatsApp
+# Core WhatsApp Services
+whatsapp.com #Main domain for app and services#
+whatsapp.net #Supports media transfers and connection management#
+
+# WhatsApp CDNs and Other Services
+whatsapp-cdn-shv-02-lga3.fbcdn.net #Content delivery network for media and app resources#
+gslb.pphosted.com #Mail exchange servers used for email handling and security purposes#
+
+### Facebook
+# Core Facebook Services
+facebook.com #core social networking and functionality#
+fb.com #shortened domain for Facebook services#
+# Facebook Content Delivery Network #CDN#
+fbcdn.net #primary CDN for Facebook-hosted content#
+akamaihd.net #Akamai CDN used for Facebook#
+# Facebook Watch Domains
+fb.watch #video platform for Facebook Watch#
+fbwat.ch #alternate domain for Facebook Watch#
+
+### Wikipedia
+# Core Wikipedia Services
+wikipedia.org #main content and encyclopedia articles#
+wikimedia.org #supports Wikipedia and other Wikimedia projects#
+wikiquote.org #focused on quotations#
+wikidata.org #linked open data for Wikipedia articles#
+wiktionary.org #dictionary and thesaurus#
+
+### Instagram
+# Core Instagram Services
+instagram.com #main platform for sharing photos and videos#
+facebook.com #parent company of Instagram#
+fb.com #Facebook’s short domain#
+# Instagram APIs and Services #specific subdomains#
+instagram-feed.com #third-party services related to Instagram feeds#
+# Instagram CDN and Supporting Services
+cdninstagram.com #content delivery network for Instagram media#
+
+### Discord
+# Core Discord Services
+discord.com #main platform for communication and community building#
+discordapp.com #legacy domain for Discord's services#
+discord.gg
+# Discord APIs and Services #specific subdomains#
+discordapi.com #API for accessing Discord features and data#
+
+### Baidu
+# Core Baidu Services
+baidu.com #main search engine and platform#
+baidu.net #related services and applications#
+baidu-cc.com #content delivery network related to Baidu services#
+
+### Yahoo
+# Core Yahoo Services
+yahoo.com #main web portal and services#
+yahoo.net #alternative domain for Yahoo services#
+# Yahoo CDN and Supporting Services
+s.yimg.com #Yahoo's content delivery network for images and media#
+
+### Zoom.us
+# Core Zoom Services
+zoom.us #main site and Zoom conferencing services#
+# Zoom CDN and API domains
+zoomcdn.net #Zoom CDN for delivering media content#
+zoomapi.us #Zoom API for programmatic access#
+# Other related services
+cloudfront.net #used by Zoom for content delivery#
+akamaihd.net #another CDN provider used for media content#
+stackpathdns.com #external DNS service Zoom might utilize#
+d24cgw3uvb9a9h.cloudfront.net
+
+### Pinterest
+# Core Pinterest Services
+pinterest.com
+# Pinterest CDN Domains
+cdnjs.cloudflare.com
+d1j4f8ux45p41i.cloudfront.net
+d2t6flx2tm2ux1.cloudfront.net
+global.ssl.fastly.net
+akamaihd.net
+
+### Microsoft
+# Core Microsoft Services
+microsoft.com #main domain for all Microsoft services#
+office.com #Microsoft Office suite#
+live.com #Outlook and other services#
+onedrive.com #cloud storage#
+xbox.com #gaming services#
+# Content Delivery Networks #CDN# and Media Hosting
+msecnd.net #Microsoft's CDN#
+# APIs and Developer Services
+msauth.net #authentication services#
+msftauth.net #additional Microsoft authentication#
+login.live.com #Microsoft account login#
+
+### Apple
+# Core Apple Services
+apple.com #main website for Apple products and services#
+icloud.com #cloud storage and services#
+# Content Delivery Networks #CDN# and Media Hosting
+apple-dns.net #Apple's CDN service#
+mzstatic.com #media and app store content delivery#
+# APIs and Developer Services
+api.apple-cloudkit.com #for iCloud APIs#
+
+### LinkedIn
+# Core LinkedIn Services
+linkedin.com #main professional networking site#
+lnkd.in #shortened URL for LinkedIn links#
+# Content Delivery Networks #CDN# and Media Hosting
+licdn.com #LinkedIn’s CDN for static content#
+# APIs and Developer Services
+linkedin-api.com #API for integrating with LinkedIn data#
+
+### eBay
+# Core eBay Services
+ebay.com #main domain for buying and selling#
+ebaystatic.com #static resources and scripts#
+# Content Delivery Networks #CDN# and Media Hosting
+ebayimg.com #images and media content#
+
+### PayPal
+# Core PayPal Services
+paypal.com #main website for payments and services#
+# CDN and Security
+paypalobjects.com #used for content and static assets#
+
+### Twitch
+# Core Twitch Services
+twitch.tv #live streaming platform#
+ttvnw.net #content delivery for Twitch video streams#
+ext-twitch.tv
+jtvnw.net
+
+### Adobe
+# Core Adobe Services
+adobe.com #main website for creative software#
+# CDN and APIs
+adobesc.com #cloud services and content delivery#
+typekit.net #Adobe fonts#
+
+### Shopify
+# Core Shopify Services
+shopify.com #core services for e-commerce platform#
+
+# Shopify-Related CDNs and External Services
+shopifycdn.com #Shopify's content delivery network for hosting assets and resources#
+shopifyapps.com #marketplace for Shopify apps and third-party integrations#
+shopifycloud.com #infrastructure and services supporting Shopify's backend#
+checkout.shopifycs.com #Checkout service for Shopify stores#
+shopifycdn.net #alternate Shopify CDN used for assets delivery#
+
+### CNN
+# Core CNN Services
+cnn.com #core services for news and media#
+# CNN-Related CDNs and External Services
+turner.com #parent company; used for hosting media and services#
+turnercdn.com #CDN used for video and multimedia content delivery#
+bleacherreport.com #sports news and content platform owned by WarnerMedia, associated with CNN#
+timeinc.net #related to legacy content, due to historical association with Time Warner#
+
+### Telegram
+telegram.org
+t.me
+telegram-cdn.org
+
+### ChatGPT
+# Core ChatGPT Services
+openai.com #Main OpenAI website and services#  
+sharegpt.com #Platform for sharing ChatGPT conversations#
+# ChatGPT CDN and Supporting Services
+cdn.openai.com #Content delivery network for OpenAI-related services#  
+cdn.jsdelivr.net #JavaScript libraries for OpenAI/ChatGPT services#  
+chat.openai.com.cdn.cloudflare.net #CDN used for OpenAI-related services#
+# ChatGPT API and Integrations
+api.openai.com #API endpoint for ChatGPT and OpenAI integrations#
+
+### LinkedIn
+# Core LinkedIn Services  
+linkedin.com #Main LinkedIn website and services#
+# LinkedIn CDN and Supporting Services  
+licdn.com #LinkedIn's content delivery network for images and media#  
+lnkd.in #URL shortener used by LinkedIn for shared links#  
+cdn.linkedin.oribi.io #Analytics and tracking services used by LinkedIn#
+
+### Microsoft Office  
+# Core Office Services  
+office.com #Main portal for Microsoft Office services#
+# Office CDN and Supporting Services  
+msocdn.com #Microsoft Office's content delivery network for resources and assets#  
+officecdn.microsoft.com #Microsoft Office CDN for software updates and downloads#  
+live.com #Supporting service for Microsoft account authentication, including Office access#  
+msftstatic.com #Static resources and assets for Microsoft Office services# 
+
+### Weather.com  
+# Core Weather Services  
+weather.com #Main portal for The Weather Channel services#
+
+# Weather CDN and Supporting Services  
+s.w-x.co #The Weather Channel's content delivery network for images and media#  
+twcweather.com #Supporting services and assets for The Weather Channel#  
+api.weather.com #API for accessing weather data and services#  
+weather.tiles.virtualearth.net #Map tiles and data for weather maps (from Microsoft's Virtual Earth platform)#
+
+### Quora  
+# Core Quora Services  
+quora.com #Main portal for Quora's question-and-answer platform#
+# Quora CDN and Supporting Services  
+qsf.ec.quoracdn.net #Quora's content delivery network for static assets and media#  
+quoracdn.net #General CDN for Quora's content#  
+quora-marketing.s3.amazonaws.com #Amazon S3 storage used for Quora's marketing content#
