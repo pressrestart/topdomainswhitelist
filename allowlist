@@ -352,6 +352,7 @@ openai.com #Main OpenAI website and services#
 chatgpt.com
 sharegpt.com #Platform for sharing ChatGPT conversations#
 # ChatGPT CDN and Supporting Services
+oaistatic.com
 cdn.openai.com #Content delivery network for OpenAI-related services#  
 cdn.jsdelivr.net #JavaScript libraries for OpenAI/ChatGPT services#  
 chat.openai.com.cdn.cloudflare.net #CDN used for OpenAI-related services#
@@ -392,3 +393,11 @@ quora.com #Main portal for Quora's question-and-answer platform#
 qsf.ec.quoracdn.net #Quora's content delivery network for static assets and media#  
 quoracdn.net #General CDN for Quora's content#  
 quora-marketing.s3.amazonaws.com #Amazon S3 storage used for Quora's marketing content#
+
+### Fandom  
+# Core Fandom Services  
+fandom.com #Main portal for Fandom's wiki and community services#
+# Fandom CDN and Supporting Services  
+fandom-static.com #Fandom's content delivery network for static assets and resources#  
+wikia-services.com #Supporting services and media hosting for Fandom (formerly Wikia)#  
+fandom.wikia.com #Legacy CDN and supporting services from Wikia#  
