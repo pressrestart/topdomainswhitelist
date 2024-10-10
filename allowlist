@@ -145,7 +145,6 @@ p16-tiktokcdn-com.akamaized.net #for hosting and CDN purposes#
 # Core GitHub Services
 github.com #core GitHub services and repository hosting#  
 github.io #GitHub Pages for hosting static websites#  
-gist.github.com #GitHub Gists for sharing code snippets#  
 githubusercontent.com #for serving content directly from GitHub#  
 githubassets.com
 # GitHub Actions and CI/CD Services
@@ -442,6 +441,17 @@ static.office.com #CDN for static resources and images associated with Office#
 outlook.office.com #Web-based version of Outlook integrated with Office services#  
 sharepoint.com #Platform for collaboration and file sharing within Office#  
 onedrive.com #Cloud storage service associated with Office and Microsoft accounts# 
+
+### Microsoft Online  
+# Core Microsoft Online Services  
+microsoftonline.com #Main portal for Microsoft Online services, including Azure and Office 365#  
+office.com #Portal for Microsoft Office applications and services, linked with Microsoft Online#  
+
+# Microsoft Online CDN and Supporting Services  
+officecdn.microsoft.com #Content delivery network for Microsoft Office installation files and updates#  
+login.microsoftonline.com #Authentication service for Microsoft accounts and services#  
+portal.office.com #Access point for Office 365 applications and services#  
+graph.microsoft.com #API endpoint for Microsoft Graph, connecting to Microsoft Online services#  
 
 ### OpenWRT
 openwrt.org #Main portal for OpenWRT's open-source router firmware#
