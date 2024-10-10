@@ -418,3 +418,10 @@ duckduckgo.com #Main portal for DuckDuckGo's privacy-focused search engine#
 # DuckDuckGo CDN and Supporting Services  
 duckduckgocdn.com #Content delivery network for DuckDuckGo assets and resources#  
 ddg.gg #Shortened URL and redirection service used by DuckDuckGo#  
+
+### OpenWRT
+openwrt.org #Main portal for OpenWRT's open-source router firmware#
+
+###
+pi-hole.net #Main website for Pi-hole's network-wide ad blocker#
+pi-hole.com #Alternate domain for Pi-hole services#
