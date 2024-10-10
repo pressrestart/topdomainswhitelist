@@ -1,0 +1,187 @@
+##### A list of the 25 most visited websites that are safe and educational for children. By whitelisting these domains, parents can ensure a secure online environment, allowing kids to explore valuable resources and engage in interactive learning while minimizing exposure to inappropriate content.
+
+### YouTube Kids
+# Video Streaming and Entertainment:
+youtubekids.com (safe video platform for children)
+# CDN and Related Services:
+google.com (core Google services)
+ytimg.com (YouTube image hosting)
+googlevideo.com (YouTube video streaming)
+gstatic.com (static content, such as images and scripts)
+googleusercontent.com (Google's user content delivery)
+
+### National Geographic Kids
+# Nature and Geography:
+kids.nationalgeographic.com (interactive games, videos, and learning about the natural world)
+# CDN and Related Services:
+nationalgeographic.com
+natgeoed.org (educational content)
+
+### PBS Kids
+# Educational Shows and Games:
+pbskids.org (educational videos and games based on popular PBS children’s shows)
+# CDN and Related Services:
+wgbh.org (media and content delivery)
+
+### Cool Math Games
+# Fun and Educational Math Games:
+coolmathgames.com (math-based games for children of all ages)
+# CDN and Related Services:
+ajax.googleapis.com (for JavaScript libraries like jQuery, used to make the games function smoothly)
+fonts.googleapis.com (for fonts used on the site)
+gstatic.com (for static resources like images and scripts)
+
+### ABC Mouse
+# Early Learning:
+abcmouse.com (interactive lessons and games for ages 2-8)
+# CDN and Related Services:
+cdn.zephyrcms.com (content delivery network)
+
+### Adventure Academy
+# Virtual Learning:
+adventureacademy.com (learning platform for ages 8-13 with interactive lessons in math, science, and language arts)
+# CDN and Related Services:
+unity3d.com (related to the game's graphics and engine)
+
+### Scratch
+# Coding and Creativity:
+scratch.mit.edu (kids can create interactive stories, games, and animations through coding)
+### External Domains for Scratch
+# CAPTCHA Services:
+recaptcha.net (used for CAPTCHA functionality to prevent automated bots)
+# Static Content Delivery:
+gstatic.com (hosts static content such as fonts, JavaScript libraries, and images)
+# Video Hosting:
+wistia.com (video hosting service used on Scratch)
+wistia.net (content delivery for Wistia-hosted videos)
+# Content Delivery Networks (CDN):
+akamaihd.net (used for delivering Scratch assets and content efficiently)
+
+### Funbrain
+# Learning Games and Books:
+funbrain.com (educational games and reading materials for kids)
+To ensure that Funbrain functions properly, you'll need to whitelist the following domains, excluding the primary Funbrain domains:
+### External Domains for Funbrain
+# Content Delivery and Hosting:
+aws1.funbrain.com (used for content delivery and hosting specific to Funbrain)
+# Video and Multimedia Services:
+wistia.com (video hosting service for multimedia content)
+# Static Content Delivery:
+akamaihd.net (used for delivering static assets and improving loading speed)
+
+### BBC Bitesize
+# Learning Resources:
+bbc.co.uk/bitesize (UK-based learning tools for kids from primary school to secondary school)
+#Video and Multimedia Services:
+bbc.com (used for video and multimedia content) bbci.co.uk (used for serving various media assets)
+#Static Content Delivery:
+gstatic.com
+
+### Sesame Street
+# Early Learning and Fun:
+sesamestreet.org (videos and games featuring beloved Sesame Street characters)
+### External Domains for Sesame Street
+# Core Sesame Street Services:
+sesameworkshop.org (related to Sesame Workshop resources and information)
+# Video and Multimedia Services:
+akamaihd.net (commonly used for video streaming and media delivery)
+# Static Content Delivery:
+gstatic.com (hosts static content like fonts and libraries)
+
+### Starfall
+# Reading and Math Games:
+starfall.com (interactive games focused on early reading and math skills)
+akamaihd.net (commonly used for video streaming and media delivery)
+gstatic.com (hosts static content like fonts and libraries)
+
+### BrainPOP
+# Educational Videos:
+brainpop.com (animated educational videos for various subjects, including science, history, and math)
+
+### PEEP and the Big Wide World
+# Science and Math:
+peepandthebigwideworld.com (interactive games for preschoolers focusing on early science and math skills)
+
+### Nick Jr.
+# Entertainment and Learning:
+nickjr.com (interactive games and videos featuring characters from Nick Jr. shows)
+
+### Disney Junior
+# Core Disney Junior Domains:
+disneyjunior.com (core services for Disney Junior content)
+disney.com (main Disney site, often linked to content)
+
+# Additional Domains:
+disneyabc.com (related content and links)
+cdn2.hdmediahub.net (content delivery for videos and images)
+disneyinteractive.com (interactive content related to Disney shows)
+
+### Ducksters
+# Educational Games and Activities:
+ducksters.com (educational articles and quizzes on history, geography, science, and more)
+
+### NASA Kids’ Club
+# Space Exploration:
+nasa.gov/kidsclub (space-themed games and activities from NASA)
+
+### Scholastic Kids
+# Books and Learning:
+scholastic.com/kids (resources for young readers and interactive learning)
+
+### Tynker
+# Coding for Kids:
+tynker.com (learning platform for kids to learn coding through games and puzzles)
+
+### Time for Kids
+# News and Current Events:
+timeforkids.com (news and current events written specifically for children)
+
+### ABCya
+# Learning Games:
+abcya.com (educational games for kids from pre-K to 6th grade)
+# Additional Services:
+abcya.net (alternative domain for resources)
+
+### Code.org
+# Coding Education:
+code.org (free coding lessons and games for children)
+
+# Additional Services:
+www.google.com/recaptcha/api.js (for CAPTCHA services)
+videos.code.org (for Code.org hosted videos)
+api.pusherapp.com (for Internet Simulator)
+ws.pusherapp.com (WebSocket for real-time communication)
+downloads.computinginthecore.org (resources for teachers)
+codeprojects.org (related to project resources)
+apis.google.com (for Google Classroom integration)
+
+# Optional Domains:
+www.google-analytics.com (for analytics tracking)
+www.googleoptimize.com (for A/B testing features)
+youtube-nocookie.com (for privacy-friendly YouTube video hosting)
+googlevideo.com (for YouTube hosted videos)
+ytimg.com (for YouTube image resources)
+
+### Khan Academy Kids
+# Educational Games and Videos:
+khankids.org (educational tools in math, reading, and writing for young learners)
+
+### Highlights Kids
+# Activities and Games:
+highlightskids.com (games, jokes, quizzes, and fun activities)
+# Additional Services:
+youtube.com (video content)
+hiddenpictures.highlights.com (specific hidden pictures puzzles)
+cdn.highlights.com (content delivery)
+
+### TypingClub
+# Typing Skills:
+typingclub.com (interactive lessons to teach kids how to type)
+# EdClub and Related Services (specific subdomains):
+edclub.com (services related to TypingClub)
+
+### Smithsonian Kids
+# Science and History:
+si.edu/kids (games, videos, and learning resources from the Smithsonian)
+# CDN and Related Services
+d1np4kwqkft8z3.cloudfront.net
