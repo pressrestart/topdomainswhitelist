@@ -5,7 +5,8 @@ This list was originally made to be used with [adblock-lean](https://github.com/
 
 ## Why Whitelist?
 
-Whitelisting allows users to block all internet traffic except to specific domains. By creating a whitelist, you ensure that only the most necessary websites and services are accessible. This method can improve focus, reduce distractions, and help manage screen time effectively.
+Whitelisting allows users to block all internet traffic except to specific domains. This enhances security by minimizing exposure to potentially harmful websites. By restricting access to only trusted domains, you reduce the risk of malware, phishing attacks, and other online threats. Furthermore, this approach promotes privacy, as it limits the data shared with less reputable sites. Not having access to every single website or IP address in the world can be beneficial, as it creates a more controlled and secure online environment, ultimately safeguarding sensitive information and maintaining user privacy.
+This method can also improve focus, reduce distractions, and help manage screen time effectively.
 
 ## Contributing
 
