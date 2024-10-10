@@ -409,6 +409,8 @@ bing.com #Main portal for Bing's search engine and services#
 bing.net #Content delivery network for Bing's search engine assets and resources#  
 virtualearth.net #CDN used for Bing Maps tiles and data#  
 microsoft.com #Related services and support for Bing (since it’s owned by Microsoft)#  
+assets.msn.com
+login.microsoftonline.com
 
 ### DuckDuckGo  
 # Core DuckDuckGo Services  
