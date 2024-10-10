@@ -459,3 +459,10 @@ openwrt.org #Main portal for OpenWRT's open-source router firmware#
 ### Pi-hole
 pi-hole.net #Main website for Pi-hole's network-wide ad blocker#
 pi-hole.com #Alternate domain for Pi-hole services#
+
+### Temu
+temu.com #Main portal for Temu's online shopping platform#
+temu.co #Alternative domain for Temu services#
+# Temu CDN and Supporting Services  
+d2f3m94x9sz4j1.cloudfront.net
+temucdn.com
