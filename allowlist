@@ -22,7 +22,7 @@ google-analytics.com #Google Analytics tracking#
 cloud.google.com #Google Cloud services and resources#
 firebase.google.com #Firebase backend services#
 appspot.com #Google App Engine hosting#
-cloudflare.net #occasionally used in conjunction with Google services#
+#cloudflare.net #occasionally used in conjunction with Google services#
 # Regional and Specific Product Domains
 mail.google.com #Gmail services#
 news.google.com #Google News#
@@ -95,7 +95,11 @@ dp8hsntg6do36.cloudfront.net
 d3c7rimkq79yfu.cloudfront.net
 d1w2poirtb3as9.cloudfront.net
 # Content Delivery Networks #CDN# and Media Hosting
-cloudfront.net
+d1w2poirt7d64n.cloudfront.net
+d2i6p1hl6r8v1f.cloudfront.net
+d3czg15kns6z0x.cloudfront.net
+d3hjqzpl9mk1l7.cloudfront.net
+d2v2g1d4m4t8cd.cloudfront.net
 amazonaws.com #Amazon Web Services#
 s3.amazonaws.com #Amazon S3 buckets#
 ec2.amazonaws.com #Amazon EC2 services#
@@ -245,7 +249,8 @@ zoom.us #main site and Zoom conferencing services#
 zoomcdn.net #Zoom CDN for delivering media content#
 zoomapi.us #Zoom API for programmatic access#
 # Other related services
-cloudfront.net #used by Zoom for content delivery#
+d3c33hcgiwev3.cloudfront.net
+zoom.us.cdn.cloudflare.net
 akamaihd.net #another CDN provider used for media content#
 stackpathdns.com #external DNS service Zoom might utilize#
 d24cgw3uvb9a9h.cloudfront.net
