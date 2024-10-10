@@ -13,7 +13,7 @@ This method can also improve focus, reduce distractions, and help manage screen 
 If you think a domain should be added or removed from the list, feel free to open an issue or submit a pull request with your suggestion.
 
 ## Domains
-Google, Youtube, Amazon, Microsoft, Apple, TikTok, GitHub, Disney+, Netflix, Reddit, Twitter, WhatsApp, Facebook, Wikipedia, Instagram, Discord, Baidu, Yahoo, Zoom, Pinterest, LinkedIn, eBay, PayPal, Twitch, Adobe, Shopify, CNN, Telegram, ChatGPT, Microsoft Office, Weather.com, Quora  
+Google, Youtube, Amazon, Microsoft, Apple, TikTok, GitHub, Disney+, Netflix, Reddit, Twitter, WhatsApp, Facebook, Wikipedia, Instagram, Discord, Baidu, Yahoo, Zoom, Pinterest, LinkedIn, eBay, PayPal, Twitch, Adobe, Shopify, CNN, Telegram, ChatGPT, Microsoft Office, Weather.com, Quora, Temu, Fandom, Bing, DuckDuckGo, Live, Office, MicrosoftOnline, OpenWRT, Pi-hole.
 
 ## License
 
