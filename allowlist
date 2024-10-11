@@ -488,3 +488,31 @@ temu.co #Alternative domain for Temu services#
 d2f3m94x9sz4j1.cloudfront.net
 temucdn.com
 kwcdn.com
+
+### SoundCloud
+# Core SoundCloud Services
+soundcloud.com #main website for browsing and streaming#
+
+# Content Delivery Networks (CDNs)
+sndcdn.com #media files like images and audio#
+scdn.co #additional media delivery and streaming#
+
+# Authentication and Third-Party Services
+google.com #Google sign-ins for authentication#
+facebook.com #Facebook sign-ins for authentication#
+twitter.com #Twitter sign-ins for authentication#
+
+### Spotify
+# Core Spotify Services
+spotify.com #main website for browsing and account management#
+api.spotify.com #Spotify API for music data, searches, and more#
+
+# Content Delivery Networks (CDNs)
+scdn.co #media files, audio delivery, and other static resources#
+
+# Authentication and Third-Party Services
+facebook.com #Facebook sign-ins for authentication#
+google.com #Google sign-ins for authentication#
+twitter.com #Twitter sign-ins for authentication#
+apple.com #Apple sign-ins for authentication and Apple devices#
+stripe.com #payment processing for Spotify Premium#
