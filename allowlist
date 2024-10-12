@@ -511,6 +511,7 @@ spotify.com #main website for browsing and account management#
 api.spotify.com #Spotify API for music data, searches, and more#
 
 # Content Delivery Networks (CDNs)
+spotifycdn.com #media files, audio delivery, and other static resources#
 scdn.co #media files, audio delivery, and other static resources#
 
 # Authentication and Third-Party Services
