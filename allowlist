@@ -176,6 +176,8 @@ www.disneyplus.com #main website for Disney+ streaming service, offering movies,
 dssott.com #used for streaming video content, serving as a CDN for Disney+#  
 d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Disney+ content efficiently#  
 disneyplus-static.com #serves static assets like images and scripts for the Disney+ platform#  
+disney-plus.net
+static-assets.bamgrid.com
 
 ### Netflix
 # Core Netflix Services
