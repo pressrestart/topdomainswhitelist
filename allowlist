@@ -247,6 +247,8 @@ discordapp.com #legacy domain for Discord's services#
 discord.gg
 # Discord APIs and Services #specific subdomains#
 discordapi.com #API for accessing Discord features and data#
+d3e54v103j8qbb.cloudfront.net #CDN
+cdn.prod.website-files.com #Static assets
 
 ### Baidu
 # Core Baidu Services
