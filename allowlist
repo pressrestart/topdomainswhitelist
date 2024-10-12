@@ -280,6 +280,7 @@ d24cgw3uvb9a9h.cloudfront.net
 # Core Pinterest Services
 pinterest.com
 # Pinterest CDN Domains
+pinimg.com
 cdnjs.cloudflare.com
 d1j4f8ux45p41i.cloudfront.net
 d2t6flx2tm2ux1.cloudfront.net
@@ -497,11 +498,9 @@ kwcdn.com
 ### SoundCloud
 # Core SoundCloud Services
 soundcloud.com #main website for browsing and streaming#
-
 # Content Delivery Networks (CDNs)
 sndcdn.com #media files like images and audio#
 scdn.co #additional media delivery and streaming#
-
 # Authentication and Third-Party Services
 google.com #Google sign-ins for authentication#
 facebook.com #Facebook sign-ins for authentication#
@@ -511,11 +510,9 @@ twitter.com #Twitter sign-ins for authentication#
 # Core Spotify Services
 spotify.com #main website for browsing and account management#
 api.spotify.com #Spotify API for music data, searches, and more#
-
 # Content Delivery Networks (CDNs)
 spotifycdn.com #media files, audio delivery, and other static resources#
 scdn.co #media files, audio delivery, and other static resources#
-
 # Authentication and Third-Party Services
 facebook.com #Facebook sign-ins for authentication#
 google.com #Google sign-ins for authentication#
