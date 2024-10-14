@@ -547,6 +547,7 @@ steamserver.net #Game server hosting and matchmaking#
 ### 4channel.org
 # Core 4channel Services
 4channel.org # Main website and imageboards #
+4chan.org # Main website and imageboards #
 # Content Delivery Networks (CDNs)
 i.4cdn.org # Image delivery and hosting. Static assets like scripts and stylesheets #
 # Other Services (Potentially Relevant)
