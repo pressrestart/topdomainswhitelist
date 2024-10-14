@@ -544,7 +544,7 @@ valve.com #Main Valve website and services#
 steam-chat.com #Steam chat service#
 steamserver.net #Game server hosting and matchmaking#
 
-### 4channel.org
+### 4chan.org
 # Core 4channel Services
 4channel.org # Main website and imageboards #
 4chan.org # Main website and imageboards #
@@ -554,3 +554,13 @@ i.4cdn.org # Image delivery and hosting. Static assets like scripts and styleshe
 sys.4chan.org # System-related services, possibly including API or authentication #
 # Archived threads (may not be necessary for general browsing)
 archive.4plebs.org # Another archive service for 4chan content #
+
+### Binance
+# Core Binance Services
+binance.com # Main website for cryptocurrency exchange #
+# Content Delivery Networks (CDNs)
+binance.zendesk.com # Customer support and knowledge base #
+binancecnt.com # Another CDN for static content #
+bnbstatic.com
+# Other Services (Potentially Relevant)
+www.binance.vision # Binance's market analysis and charting platform #
