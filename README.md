@@ -19,7 +19,3 @@ Websites such as Cloudfront, Cloudflare, and googleapis.com will not be globally
 ## Contributing
 
 If you think a domain should be added or removed from the list or if something isn't working properly, feel free to open an issue or submit a pull request with your suggestion.
-
-## License
-
-This project is licensed under the MIT License.
