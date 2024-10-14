@@ -565,3 +565,333 @@ binancecnt.com # Another CDN for static content #
 bnbstatic.com
 # Other Services (Potentially Relevant)
 www.binance.vision # Binance's market analysis and charting platform #
+
+### Diply
+# Core Diply Services
+diply.com # Main website for viral content and articles #
+
+### Tumblr
+# Core Tumblr Services
+tumblr.com # Main website for microblogging and social networking #
+
+### ESPN
+# Core ESPN Services
+espn.com # Main website for sports news and content #
+# Content Delivery Networks (CDNs)
+espncdn.com # A primary CDN for ESPN content #
+
+### Walmart
+# Core Walmart Services
+walmart.com # Main website for online shopping #
+# Content Delivery Networks (CDNs)
+walmartimages.com # Image delivery and hosting #
+
+### Blogspot
+# Core Blogspot Services
+blogspot.com # Main website for creating and hosting blogs #
+# Potential CDNs
+lh3.googleusercontent.com # Often used for profile pictures and user avatars.
+gg.googleusercontent.com # May be used for specific types of content or features.
+
+### Chase
+# Core Chase Services
+chase.com # Main website for banking services #
+# Content Delivery Networks (CDNs)
+chasecdn.com # Likely used for static assets like images and scripts #
+
+### IMDB
+# Core IMDB Services
+imdb.com # Main website for movie information and reviews #
+# Content Delivery Networks (CDNs)
+m.media-amazon.com # Image delivery and hosting (likely shared with Amazon services) #
+imdb-api.com # API for accessing IMDB data #
+
+### New York Times
+# Core New York Times Services
+nytimes.com # Main website for news and articles #
+# Content Delivery Networks (CDNs)
+nyt.com # Static assets like images, scripts, and stylesheets #
+
+### Wikia (Fandom)
+# Core Wikia Services
+wikia.org # Main platform for wikis and fan communities #
+fandom.com # Rebranded main website #
+www.wikia.org # Common subdomain for the main website #
+www.fandom.com # Common subdomain for the rebranded website #
+# Content Delivery Networks (CDNs)
+wikia.nocookie.net # Image delivery and hosting #
+
+### Bank of America
+# Core Bank of America Services
+bankofamerica.com # Main website for banking services #
+# Content Delivery Networks (CDNs)
+cdn.bankofamerica.com # Likely used for static assets and scripts #
+
+### WordPress
+# Core WordPress Services
+wordpress.com # Main website for creating and hosting blogs #
+# Content Delivery Networks (CDNs)
+wp.com # Static assets like images, scripts, and stylesheets for WordPress blogs #
+
+### MSN
+# Core MSN Services
+msn.com # Main website for news, entertainment, and other content #
+
+### Wells Fargo
+# Core Wells Fargo Services
+wellsfargo.com # Main website for banking services #
+# Content Delivery Networks (CDNs)
+wellsfargo.cdn.com # Likely used for static assets and scripts #
+
+### Best Buy
+# Core Best Buy Services
+bestbuy.com # Main website for electronics retail #
+# Content Delivery Networks (CDNs)
+bbystatic.com # Image delivery and hosting #
+
+### Etsy
+# Core Etsy Services
+etsy.com # Main website for handmade and vintage goods marketplace #
+# Content Delivery Networks (CDNs)
+etsystatic.com # Image delivery and hosting #
+
+### Target
+# Core Target Services
+target.com # Main website for retail shopping #
+# Content Delivery Networks (CDNs)
+target.scene7.com # Image delivery and hosting #
+
+### Pandora
+# Core Pandora Services
+pandora.com # Main website for music streaming #
+
+### Breitbart
+# Core Breitbart Services
+breitbart.com # Main website for news and opinion articles #
+
+### Yelp
+# Core Yelp Services
+yelp.com # Main website for business reviews and recommendations #
+# Content Delivery Networks (CDNs)
+yelpcdn.com # Image delivery and hosting #
+
+### Salesforce
+# Core Salesforce Services
+salesforce.com # Main website for CRM and cloud services #
+# Content Delivery Networks (CDNs)
+sfdcdigital.com
+sfdcstatic.com
+
+### Huffington Post
+# Core Huffington Post Services
+huffpost.com # Main website for news and opinion articles #
+# Content Delivery Networks (CDNs)
+tr.thecontentserver.com
+
+### Fox News
+# Core Fox News Services
+foxnews.com # Main website for news and opinion articles #
+# Content Delivery Networks (CDNs)
+cdn.segment.com
+player.h-cdn.com
+foxnewsplayer-a.akamaihd.net
+
+### Instructure
+# Core Instructure Services
+instructure.com # Main website for educational technology services #
+# Content Delivery Networks (CDNs)
+use.typekit.net
+fast.wistia.com
+static.addtoany.com
+
+### Dropbox
+# Core Dropbox Services
+dropbox.com # Main website for cloud storage and file sharing #
+# Content Delivery Networks (CDNs)
+dropboxstatic.com
+
+### Stack Overflow
+# Core Stack Overflow Services
+stackoverflow.com # Main website for Q&A on programming and software development #
+# Content Delivery Networks (CDNs)
+stack.imgur.com # Image delivery and hosting #
+cdn.sstatic.net
+
+### Washington Post
+# Core Washington Post Services
+washingtonpost.com # Main website for news and articles #
+
+### Zillow
+# Core Zillow Services
+zillow.com # Main website for real estate information and listings #
+# Content Delivery Networks (CDNs)
+zillowstatic.com # Image delivery and hosting #
+# Zillow might use additional CDNs for maps, property data, and other content.
+
+### Giphy
+# Core Giphy Services
+giphy.com
+
+### AOL
+# Core AOL Services
+aol.com # Main website for email, news, and other content #
+# Content Delivery Networks (CDNs)
+aolcdn.com
+yimg.com
+
+### Buzzfeed
+# Core Buzzfeed Services
+buzzfeed.com # Main website for news, entertainment, and quizzes #
+
+### Vice
+# Core Vice Services
+vice.com # Main website for news, culture, and documentaries #
+# Content Delivery Networks (CDNs)
+embeds.beehiiv.com
+htlbid.com
+
+### USPS
+# Core USPS Services
+usps.com # Main website for postal services #
+
+### Xfinity
+# Core Xfinity Services
+xfinity.com # Main website for internet, TV, and phone services #
+# Content Delivery Networks (CDNs)
+static.cimcontent.net
+
+### Indeed
+# Core Indeed Services
+indeed.com # Main website for job searching and recruiting #
+
+### Weebly
+# Core Weebly Services
+weebly.com # Main website for website building and hosting #
+# Content Delivery Networks (CDNs)
+use.typekit.net
+cdn2.editmysite.com
+
+### UPS
+# Core UPS Services
+ups.com # Main website for package delivery and logistics #
+
+### Home Depot
+# Core Home Depot Services
+homedepot.com # Main website for home improvement retail #
+# Content Delivery Networks (CDNs)
+homedepot-static.com # Image delivery and hosting #
+thdstatic.com
+
+### Thesaurus.com
+# Core Thesaurus.com Services
+thesaurus.com # Main website for synonyms and antonyms #
+# Content Delivery Networks (CDNs)
+assets.dictionary.com
+
+### Macy's
+# Core Macy's Services
+macys.com # Main website for retail shopping #
+
+### Capital One
+# Core Capital One Services
+capitalone.com # Main website for banking services #
+# Content Delivery Networks (CDNs)
+capitaloneservices.tt.omtrdc.net
+capitalone-resources.digital-cloud.medallia.com
+
+### Groupon
+# Core Groupon Services
+groupon.com # Main website for deals and coupons #
+# Content Delivery Networks (CDNs)
+grouponcdn.com # Image delivery and hosting #
+
+### Roblox
+# Core Roblox Services
+roblox.com # Main website for online gaming platform #
+# Content Delivery Networks (CDNs)
+rbxcdn.com
+
+### BBC
+# Core BBC Services
+bbc.com # Main website for news and media content #
+bbc.co.uk # UK-specific domain for BBC #
+# Content Delivery Networks (CDNs)
+gn-web-assets.api.bbc.com
+static.files.bbci.co.uk
+ichef.bbci.co.uk
+cdn.privacy-mgmt.com
+
+### DeviantArt
+# Core DeviantArt Services
+deviantart.com # Main website for art community and sharing #
+deviantart.net
+# Content Delivery Networks (CDNs)
+images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com # Image delivery and hosting (likely related to Wix platform) #
+static.parastorage.com
+
+### Forbes
+# Core Forbes Services
+forbes.com # Main website for business news and information #
+
+### NFL
+# Core NFL Services
+nfl.com # Main website for National Football League #
+# Content Delivery Networks (CDNs)
+res.cloudinary.com
+loremflickr.com
+cdns.us1.gigya.com
+p.nfltags.com
+
+### GoDaddy
+# Core GoDaddy Services
+godaddy.com # Main website for domain registration and web hosting #
+wsimg.com # Images Hosting #
+
+### Daily Mail
+# Core Daily Mail Services
+dailymail.co.uk # Main website for news and tabloid content #
+
+### Kohl's
+# Core Kohl's Services
+kohls.com # Main website for retail shopping #
+kohlsimg.com
+
+### Vimeo
+# Core Vimeo Services
+vimeo.com # Main website for video hosting and sharing #
+# Content Delivery Networks (CDNs)
+vimeocdn.com
+
+### Quizlet
+# Core Quizlet Services
+quizlet.com # Main website for learning tools and flashcards #
+www.quizlet.com # Common subdomain for the main website #
+# Content Delivery Networks (CDNs)
+quizlet.cdn.com # Likely used for static assets, images, and learning materials #
+images.prismic.io
+static.cdn.prismic.io
+
+### Western Journal (Previously known as Conservative Tribune (Previously known as Conservative Tribune)
+# Core Western Journal Services
+westernjournal.com # Main website for news and opinion articles #
+
+### CNET
+# Core CNET Services
+cnet.com # Main website for technology news and reviews #
+# Content Delivery Networks (CDNs)
+cnet1.cbsistatic.com # Likely used for static assets and images #
+
+### Stack Exchange
+# Core Stack Exchange Services
+stackexchange.com # Network of Q&A websites on various topics #
+# Content Delivery Networks (CDNs)
+i.stack.imgur.com # Image delivery and hosting #
+sstatic.net
+
+### Citi
+# Core Citi Services
+citi.com # Main website for banking services #
+
+### Scribol
+# Core Scribol Services
+scribol.com # Main website for content publishing platform #
