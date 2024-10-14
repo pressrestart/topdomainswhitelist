@@ -519,3 +519,27 @@ google.com #Google sign-ins for authentication#
 twitter.com #Twitter sign-ins for authentication#
 apple.com #Apple sign-ins for authentication and Apple devices#
 stripe.com #payment processing for Spotify Premium#
+
+### Steam
+# Core Steam Services
+steampowered.com #main website and services#
+steamcommunity.com #Steam Community features, friends, and groups#
+steamusercontent.com #User-generated content, such as profile pictures and workshop items#
+# Steam Client Services
+steamstatic.com #CDN
+steam-content-dnld-1.qwilted-cds.cqloud.com #Content delivery for game downloads#
+steam-software.dlt.qwilted-cds.cqloud.com #Software delivery, likely for Steam client updates#
+# Steam Workshop & Cloud Services
+d2j1cdn4m8s67.cloudfront.net #Specific CloudFront subdomain used by Steam for Workshop content#
+# Steam Authentication & Updates
+steampipe.steamcontent.com #Steam content delivery and updates#
+steamcdn-a.akamaihd.net #Steam CDN for updates and downloads#
+# Steam Community & Static Content
+steamcommunity-a.akamaihd.net #Community-related CDN services#
+steamuserimages-a.akamaihd.net #Content delivery for user images and avatars#
+# Steam VAC (Valve Anti-Cheat)
+valve.net #Valve services, including VAC#
+valve.com #Main Valve website and services#
+# Other Services
+steam-chat.com #Steam chat service#
+steamserver.net #Game server hosting and matchmaking#
