@@ -543,3 +543,13 @@ valve.com #Main Valve website and services#
 # Other Services
 steam-chat.com #Steam chat service#
 steamserver.net #Game server hosting and matchmaking#
+
+### 4channel.org
+# Core 4channel Services
+4channel.org # Main website and imageboards #
+# Content Delivery Networks (CDNs)
+i.4cdn.org # Image delivery and hosting. Static assets like scripts and stylesheets #
+# Other Services (Potentially Relevant)
+sys.4chan.org # System-related services, possibly including API or authentication #
+# Archived threads (may not be necessary for general browsing)
+archive.4plebs.org # Another archive service for 4chan content #
