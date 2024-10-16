@@ -891,3 +891,49 @@ sstatic.net
 ### Citi
 # Core Citi Services
 citi.com # Main website for banking services #
+
+### aliexpress.com (AliExpress)
+# Core AliExpress Services
+aliexpress.com #Main website for browsing and purchasing products#
+# Content Delivery Networks (CDNs) and Resources
+alicdn.com #Primary CDN for images, scripts, and other assets#
+# Payment and Tracking Services
+alipay.com #AliExpress's payment platform#
+aliexpress.com #Logistics and tracking for orders#
+
+### samsung.com (Samsung)
+# Core Samsung Services
+samsung.com # Main website for Samsung products and services #
+# Samsung Services
+samsungpay.com # Main website for Samsung Pay services #
+smartthings.com # Main website for Samsung SmartThings ecosystem #
+samsungcloud.com # Samsung Cloud storage service for backup and synchronization #
+# Core Samsung Services for Updates
+ospserver.net # Samsung's FOTA (Firmware Over The Air) update server #
+fota.samsungapps.com # Server used for delivering firmware updates #
+cloud-neofota.samsungcloud.com # Samsung's cloud server for FOTA updates #
+# Samsung Apps and Services
+samsungdm.com # Domain for Samsung's device management system (used in update processes) #
+samsungotafiles.com # OTA file server for Samsung devices #
+samsungapps.com # Samsung's app store, sometimes used to deliver update-related apps #
+
+### baidu.com (Baidu)
+# Core Baidu Services
+baidu.com # Main website for Baidu search engine and services #
+www.baidu.com # Common subdomain for accessing the main website #
+# Content Delivery Networks (CDNs)
+bdstatic.com # Primary CDN for static content such as images, scripts, and stylesheets #
+
+### shopee.com (Shopee)
+# Core Shopee Services
+shopee.com # Main website for browsing and purchasing products #
+www.shopee.com # Common subdomain for accessing the main website #
+# Regional Shopee Websites
+shopee.sg # Shopee Singapore #
+shopee.co.id # Shopee Indonesia #
+shopee.com.my # Shopee Malaysia #
+shopee.ph # Shopee Philippines #
+shopee.tw # Shopee Taiwan #
+shopee.vn # Shopee Vietnam #
+shopee.co.th # Shopee Thailand #
+shopee.com.br # Shopee Brazil #
