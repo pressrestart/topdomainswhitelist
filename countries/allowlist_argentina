@@ -6,9 +6,12 @@ clarin.com #Clarin is one of Argentina's largest and most widely read newspapers
 # Core Services:
 lanacion.com.ar #La Nación is a prestigious Argentine newspaper, known for its political and economic coverage. It also offers cultural content, lifestyle news, and sports updates.)
 
-### MercadoLibre
+### MercadoLibre and MercadoPago
 # Core Services:
 mercadolibre.com.ar #Argentina's largest e-commerce platform, similar to eBay, allowing users to buy and sell goods ranging from electronics to clothing and household items.)
+mercadolibre.com
+mercadopago.com
+mercadopago.com.ar
 # CDN
 mercadolibre.com
 mlstatic.com
