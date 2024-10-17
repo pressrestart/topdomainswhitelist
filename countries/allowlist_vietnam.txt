@@ -1,0 +1,39 @@
+### VNExpress
+# Core Services:
+vnexpress.net #leading news website providing a wide range of news articles, features, and updates on various topics such as politics, society, and economy#
+
+### Shopee
+# Core Services:
+shopee.vn #popular e-commerce platform that allows users to buy and sell a wide variety of products ranging from electronics to fashion#
+
+### Zalo
+# Core Services:
+zalo.me #messaging and social media app widely used in Vietnam for communication, sharing photos, and more#
+
+### 24h
+# Core Services:
+24h.com.vn #news portal offering articles on lifestyle, sports, and entertainment#
+
+### Dan Tri
+# Core Services:
+dantri.com.vn #online newspaper covering news, opinion pieces, and social issues#
+
+### Thegioididong
+# Core Services:
+thegioididong.com #leading retailer of mobile phones and technology products in Vietnam, also offers online shopping#
+
+### Coc Coc
+# Core Services:
+coccoc.com #Vietnamese search engine and web browser, designed to cater to local needs#
+
+### Tuoi Tre
+# Core Services:
+tuoitre.vn #popular newspaper providing in-depth news coverage and investigative journalism#
+
+### Truyen QQ
+# Core Services:
+truyenqqto.com #website dedicated to reading and sharing web novels and stories, catering to fiction enthusiasts#
+
+### Truyen Full
+# Core Services:
+truyenfull.io #platform for readers to access a wide variety of novels and stories online#

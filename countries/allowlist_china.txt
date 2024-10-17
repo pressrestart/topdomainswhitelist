@@ -1,0 +1,43 @@
+### Tmall
+# Core Services:
+tmall.com #B2C e-commerce platform for brands and retailers#
+
+### Baidu
+# Core Services:
+baidu.com #search engine#
+
+### Tencent QQ
+# Core Services:
+qq.com #social media platform and instant messaging#
+
+### Sohu
+# Core Services:
+sohu.com #comprehensive content portal for news, sports, entertainment#
+
+### Taobao
+# Core Services:
+taobao.com #C2C e-commerce platform#
+# APIs and Services #specific subdomains#:
+img.alicdn.com #image hosting for product listings#
+
+### Qihoo 360
+# Core Services:
+360.cn #online security services and antivirus#
+
+### JD.com
+# Core Services:
+jd.com #B2C online retailer for electronics and other goods#
+# APIs and Services #specific subdomains#:
+img30.360buyimg.com #image hosting for product pages#
+
+### Sina
+# Core Services:
+sina.com.cn #news, entertainment, and sports portal#
+
+### Weibo
+# Core Services:
+weibo.com #microblogging platform, similar to Twitter#
+
+### Xinhuanet
+# Core Services:
+xinhuanet.com #news and information service by Xinhua News Agency#

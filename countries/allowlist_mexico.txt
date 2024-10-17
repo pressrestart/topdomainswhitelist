@@ -1,0 +1,31 @@
+### Liverpool
+# Core Services:
+liverpool.com.mx #Retail and Ecommerce#
+
+### Coppel
+# Core Services:
+coppel.com #Retail and Ecommerce#
+
+### Soriana
+# Core Services:
+soriana.com #Supermarket and Ecommerce#
+
+### The Home Depot Mexico
+# Core Services:
+homedepot.com.mx #Home improvement and DIY products#
+
+### Office Depot Mexico
+# Core Services:
+officedepot.com.mx #Office supplies and technology#
+
+### Comex
+# Core Services:
+comex.com.mx #Paint and home decoration#
+
+### Enviaflores.com
+# Core Services:
+enviaflores.com #Flower and gift delivery#
+
+### Steren
+# Core Services:
+steren.com.mx #Electronics and technology products#

@@ -1,0 +1,39 @@
+### Bild
+# Core Services:
+bild.de #Germany’s leading news website, providing breaking news, entertainment, and sports coverage.#
+
+### Spiegel
+# Core Services:
+spiegel.de #A major news portal offering in-depth articles and news reports on various topics including politics, economy, and culture.#
+
+### eBay Kleinanzeigen
+# Core Services:
+ebay-kleinanzeigen.de #A classifieds platform for buying and selling goods locally across Germany.#
+
+### Wetter.com
+# Core Services:
+wetter.com #A website dedicated to weather forecasts and meteorological information for various locations in Germany.#
+
+### T-Online
+# Core Services:
+t-online.de #A news portal offering news, entertainment, and various online services.#
+
+### Chip
+# Core Services:
+chip.de #A technology website that provides reviews, downloads, and news related to software and hardware.#
+
+### n-tv
+# Core Services:
+n-tv.de #A news channel that offers news articles, videos, and live broadcasts.#
+
+### Heise Online
+# Core Services:
+heise.de #A news website focused on technology, IT, and related subjects, providing updates and reviews.#
+
+### Golem
+# Core Services:
+golem.de #A tech news site that reports on computer and technology news, reviews, and analysis.#
+
+### Netzwelt
+# Core Services:
+netzwelt.de #An online magazine covering technology, gadgets, software, and digital culture.# 

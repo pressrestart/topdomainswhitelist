@@ -1,0 +1,39 @@
+### Corriere della Sera
+# Core Services:
+corriere.it #The website of one of Italy's most prominent newspapers, *Corriere della Sera*, offering news, commentary, and multimedia content on politics, sports, culture, and more.#
+
+### La Repubblica
+# Core Services:
+repubblica.it #Another leading Italian newspaper, *La Repubblica* delivers national and international news, analysis, and features across various topics including economy, entertainment, and sports.#
+
+### Gazzetta dello Sport
+# Core Services:
+gazzetta.it #The go-to site for Italian sports enthusiasts, *Gazzetta dello Sport* covers the latest in football, cycling, tennis, and other sports with detailed reports, live updates, and interviews.#
+
+### ANSA
+# Core Services:
+ansa.it #The *ANSA* news agency provides up-to-date information on events in Italy and around the world, covering a wide range of topics including politics, business, and lifestyle.#
+
+### Il Meteo
+# Core Services:
+ilmeteo.it #A popular weather forecasting site in Italy, offering accurate and timely weather predictions, including detailed reports for local and regional areas.#
+
+### 3B Meteo
+# Core Services:
+3bmeteo.com #Another prominent Italian weather website providing detailed meteorological updates, including forecasts, satellite images, and weather warnings.#
+
+### Immobiliare.it
+# Core Services:
+immobiliare.it #Italy's leading real estate website, *Immobiliare* offers listings for buying, selling, and renting properties across the country, including homes, offices, and commercial spaces.#
+
+### Subito
+# Core Services:
+subito.it #Italy's top classifieds website, *Subito* allows users to buy and sell items across various categories, from electronics and furniture to cars and property.#
+
+### Mediaset
+# Core Services:
+mediaset.it #The website for Italy’s largest private broadcaster, *Mediaset* offers streaming services, TV program schedules, and entertainment news.#
+
+### Il Fatto Quotidiano
+# Core Services:
+ilfattoquotidiano.it #An independent newspaper website, *Il Fatto Quotidiano* focuses on investigative journalism, covering political, economic, and societal issues in Italy.#

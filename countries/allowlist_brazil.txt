@@ -1,0 +1,41 @@
+### Mercado Livre
+# Core Services:
+mercadolivre.com.br #Brazil's largest online marketplace#
+
+### OLX Brazil
+# Core Services:
+olx.com.br #buying and selling platform for a variety of products#
+
+### Magazine Luiza #Magalu#
+# Core Services:
+magazineluiza.com.br #online retail store for electronics, home goods#
+
+### Casas Bahia
+# Core Services:
+casasbahia.com.br #electronics, home appliances, and services retailer#
+# Static Subdomains and Services:
+static.casasbahia.com.br #media content like product images#
+
+### Netshoes
+# Core Services:
+netshoes.com.br #sportswear and equipment e-commerce#
+
+### Americanas
+# Core Services:
+americanas.com.br #consumer goods retailer, part of B2W Digital#
+
+### Dafiti
+# Core Services:
+dafiti.com.br #fashion e-commerce platform#
+
+### Reclame Aqui
+# Core Services:
+reclameaqui.com.br #consumer complaint platform#
+
+### KaBuM!
+# Core Services:
+kabum.com.br #electronics and computer hardware retailer#
+
+### Tudogostoso
+# Core Services:
+tudogostoso.com.br #food and recipe platform#

@@ -1,0 +1,39 @@
+### Sanook
+# Core Services:
+sanook.com #one of Thailand's largest news and entertainment portals#
+
+### Khaosod
+# Core Services:
+khaosod.co.th #leading Thai news website providing up-to-date news and analysis#
+
+### Thai Rath
+# Core Services:
+thairath.co.th #popular newspaper known for breaking news, politics, and sports#
+
+### The Standard
+# Core Services:
+thestandard.co #digital media platform focusing on news, culture, and lifestyle#
+
+### Pantip
+# Core Services:
+pantip.com #discussion forum where users share opinions on various topics#
+
+### Kapook
+# Core Services:
+kapook.com #lifestyle website offering news, entertainment, and online community#
+
+### MThai
+# Core Services:
+mthai.com #popular portal for news, gossip, and entertainment content#
+
+### Thai Airways
+# Core Services:
+thaiairways.com #official site of Thailand's national airline for flight booking and services#
+
+### Workpoint News
+# Core Services:
+workpointnews.com #online news outlet with coverage of various topics, including entertainment#
+
+### TrueVisions
+# Core Services:
+truevisions.tv #cable TV and entertainment service provider in Thailand# 
