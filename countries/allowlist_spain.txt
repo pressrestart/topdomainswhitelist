@@ -1,0 +1,39 @@
+### El País
+# Core Services:
+elpais.com #El País is one of Spain's most influential newspapers, offering comprehensive coverage of national and international news, politics, culture, and sports.#
+
+### Marca
+# Core Services:
+marca.com #Marca is Spain's leading sports news website, with a strong focus on football, especially La Liga, as well as basketball, tennis, and other sports.#
+
+### El Mundo
+# Core Services:
+elmundo.es #El Mundo is one of Spain’s largest general news outlets, covering national and international news, politics, culture, and economy.#
+
+### 20 Minutos
+# Core Services:
+20minutos.es #A free Spanish newspaper, 20 Minutos provides quick and concise news on various topics, including politics, economy, sports, and entertainment.#
+
+### ABC
+# Core Services:
+abc.es #ABC is a well-established Spanish newspaper that covers a wide array of topics such as politics, culture, sports, and international news, with a conservative editorial stance.#
+
+### La Vanguardia
+# Core Services:
+lavanguardia.com #Based in Barcelona, La Vanguardia is a prominent Spanish newspaper with a focus on Catalonia, but it also covers national and international news, sports, and lifestyle.#
+
+### RTVE
+# Core Services:
+rtve.es #RTVE is Spain’s public broadcaster, offering news, TV shows, radio, and entertainment content. It provides coverage on a wide range of topics, including politics, culture, and sports.#
+
+### Idealista
+# Core Services:
+idealista.com #Idealista is Spain’s leading real estate website, where users can search for homes to buy or rent, as well as find information on property prices and trends.#
+
+### As
+# Core Services:
+as.com #As is another popular sports website in Spain, covering football, tennis, cycling, and other sports, with a strong focus on La Liga and international football competitions.#
+
+### InfoJobs
+# Core Services:
+infojobs.net #InfoJobs is Spain's largest employment portal, connecting job seekers with employers across various industries and offering career advice and resources.#
