@@ -251,12 +251,6 @@ discordapi.com #API for accessing Discord features and data#
 d3e54v103j8qbb.cloudfront.net #CDN
 cdn.prod.website-files.com #Static assets
 
-### Baidu
-# Core Baidu Services
-baidu.com #main search engine and platform#
-baidu.net #related services and applications#
-baidu-cc.com #content delivery network related to Baidu services#
-
 ### Yahoo
 # Core Yahoo Services
 yahoo.com #main web portal and services#
@@ -917,13 +911,6 @@ cloud-neofota.samsungcloud.com # Samsung's cloud server for FOTA updates #
 samsungdm.com # Domain for Samsung's device management system (used in update processes) #
 samsungotafiles.com # OTA file server for Samsung devices #
 samsungapps.com # Samsung's app store, sometimes used to deliver update-related apps #
-
-### baidu.com (Baidu)
-# Core Baidu Services
-baidu.com # Main website for Baidu search engine and services #
-www.baidu.com # Common subdomain for accessing the main website #
-# Content Delivery Networks (CDNs)
-bdstatic.com # Primary CDN for static content such as images, scripts, and stylesheets #
 
 ### shopee.com (Shopee)
 # Core Shopee Services
