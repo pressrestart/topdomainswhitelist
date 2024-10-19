@@ -888,7 +888,7 @@ sstatic.net
 # Core Citi Services
 citi.com # Main website for banking services #
 
-### aliexpress.com (AliExpress)
+### AliExpress
 # Core AliExpress Services
 aliexpress.com #Main website for browsing and purchasing products#
 # Content Delivery Networks (CDNs) and Resources
@@ -897,7 +897,7 @@ alicdn.com #Primary CDN for images, scripts, and other assets#
 alipay.com #AliExpress's payment platform#
 aliexpress.com #Logistics and tracking for orders#
 
-### samsung.com (Samsung)
+### Samsung
 # Core Samsung Services
 samsung.com # Main website for Samsung products and services #
 # Samsung Services
@@ -913,7 +913,7 @@ samsungdm.com # Domain for Samsung's device management system (used in update pr
 samsungotafiles.com # OTA file server for Samsung devices #
 samsungapps.com # Samsung's app store, sometimes used to deliver update-related apps #
 
-### shopee.com (Shopee)
+### shopee.com
 # Core Shopee Services
 shopee.com # Main website for browsing and purchasing products #
 www.shopee.com # Common subdomain for accessing the main website #
@@ -926,3 +926,10 @@ shopee.tw # Shopee Taiwan #
 shopee.vn # Shopee Vietnam #
 shopee.co.th # Shopee Thailand #
 shopee.com.br # Shopee Brazil #
+
+### Craiglist
+craiglist.com # Main website for browsing and purchasing products #
+
+### Superuser
+superuser.com
+cdn.sstatic.net
