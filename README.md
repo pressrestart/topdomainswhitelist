@@ -21,5 +21,4 @@ Websites such as Cloudfront, Cloudflare, and googleapis.com will not be globally
 
 ## Contributing
 
-A site doesn't work? A website doesn't show images or videos? Let me know and I will fix it.
-Also, if you think a domain should be added or removed from the list or if something isn't working properly, feel free to open an issue or submit a pull request with your suggestion.
+If a site is not functioning correctly or if a website fails to display images or videos, please inform me, and I will address the issue. Additionally, if you believe a domain should be added or removed from the list, or if something is not working as expected, feel free to open an issue or submit a pull request with your suggestion.
