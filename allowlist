@@ -953,3 +953,11 @@ wsj.com #Main portal for The Wall Street Journal, featuring news, business, and 
 # Wall Street Journal CDN and Supporting Services  
 cdn.mxpnl.com #Mixpanel analytics for tracking user interaction data#  
 s3.amazonaws.com #Amazon S3 storage for static assets and files used by WSJ#
+
+### USA Today  
+# Core Services:  
+usatoday.com #Main portal for USA Today, featuring national news, sports, entertainment, and lifestyle content#
+
+### CBS News  
+# Core Services:  
+cbsnews.com #Main portal for CBS News, providing national and world news, politics, and entertainment coverage#
