@@ -953,14 +953,3 @@ wsj.com #Main portal for The Wall Street Journal, featuring news, business, and 
 # Wall Street Journal CDN and Supporting Services  
 cdn.mxpnl.com #Mixpanel analytics for tracking user interaction data#  
 s3.amazonaws.com #Amazon S3 storage for static assets and files used by WSJ#
-
-### The Washington Post  
-# Core Services:  
-washingtonpost.com #Main portal for The Washington Post, covering national news, politics, and world events#
-# Washington Post CDN and Supporting Services  
-s3.amazonaws.com #Amazon S3 storage for static assets and media files#  
-cdnjs.cloudflare.com #Content Delivery Network for loading JavaScript libraries and static assets#
-
-### Fox News  
-# Core Services:  
-foxnews.com #Main portal for Fox News, covering U.S. and international news, politics, and entertainment#
