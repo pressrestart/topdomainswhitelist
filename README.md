@@ -14,7 +14,7 @@ A list of the 25 most visited websites that are safe and educational for childre
 The 4 NSFW sites from the US top 100 are included in case you'd like to whitelist or blacklist them.
 
 ## Countries
-On the countries you can find allowlist for the top 10 websites for the 30 countries with most users on the world. These allowlists exclude US websites such as Google, Amazon, Apple and focus on specific websites from those countries.
+In the countries directory, you'll find allowlists for the top 10 websites in the 30 countries with the largest number of users globally. These lists exclude US-based websites like Google, Amazon, and Apple, focusing instead on country-specific sites.
 
 ## CDNs and APIs
 Websites such as Cloudfront, Cloudflare, and googleapis.com will not be globally whitelisted due to their potential to host malicious software, advertisements, or other harmful content. Instead, each CDN server and googleapis domain will be added as a subdomain tailored to the specific requirements of individual websites, thereby enhancing overall security. For instance, there have been reports of storage.googleapis.com being exploited for malicious purposes. This project's approach prevents that.
