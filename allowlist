@@ -280,8 +280,8 @@ zoomapi.us #Zoom API for programmatic access#
 # Other related services
 d3c33hcgiwev3.cloudfront.net
 zoom.us.cdn.cloudflare.net
-akamaihd.net #another CDN provider used for media content#
-stackpathdns.com #external DNS service Zoom might utilize#
+#akamaihd.net #another CDN provider used for media content# Disabled by default, enable it if zoom doesnt work.
+#stackpathdns.com #external DNS service Zoom might utilize# Disabled by default, enable it if zoom doesnt work.
 d24cgw3uvb9a9h.cloudfront.net
 
 ### Pinterest
