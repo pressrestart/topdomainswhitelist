@@ -1,6 +1,10 @@
 ### Clarin
 # Core Services:
 clarin.com #Clarin is one of Argentina's largest and most widely read newspapers. It covers national and international news, sports, economy, and politics, with a broad multimedia presence.#
+# Static assets:
+videos-cloudfront-usp.jwpsrv.com
+assets-jpcust.jwpsrv.com
+
 
 ### La Nación
 # Core Services:
