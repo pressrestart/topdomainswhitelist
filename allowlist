@@ -175,7 +175,7 @@ github-actions.com #for GitHub Actions services#
 
 ### Disney+
 # Core Disney+ Services
-www.disneyplus.com #main website for Disney+ streaming service, offering movies, TV shows, and original content#  
+disneyplus.com #main website for Disney+ streaming service, offering movies, TV shows, and original content#  
 dssott.com #used for streaming video content, serving as a CDN for Disney+#  
 d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Disney+ content efficiently#  
 disneyplus-static.com #serves static assets like images and scripts for the Disney+ platform#  
@@ -184,7 +184,7 @@ bamgrid.com #serves static assets like images and scripts for the Disney+ platfo
 
 ### Netflix
 # Core Netflix Services
-www.netflix.com #main website for Netflix streaming service, offering movies, TV shows, and original content#  
+netflix.com #main website for Netflix streaming service, offering movies, TV shows, and original content#  
 nflximg.net #used for serving images and video thumbnails#  
 nflxvideo.net #used for streaming video content#  
 d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Netflix content efficiently#  
@@ -565,7 +565,7 @@ binance.zendesk.com # Customer support and knowledge base #
 binancecnt.com # Another CDN for static content #
 bnbstatic.com
 # Other Services (Potentially Relevant)
-www.binance.vision # Binance's market analysis and charting platform #
+binance.vision # Binance's market analysis and charting platform #
 
 ### Diply
 # Core Diply Services
