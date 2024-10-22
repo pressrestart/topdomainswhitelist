@@ -160,6 +160,8 @@ muscdn.com #historically associated with Musical.ly, now used by TikTok#
 bytedance.com #TikTok's parent company#
 bytedance.net
 p16-tiktokcdn-com.akamaized.net #for hosting and CDN purposes#
+v16-webapp-prime.tiktok.com.edgesuite.net #For logging into tiktok using google#
+v16-webapp-prime.tiktok.com.bytegeo.akadns.net #For logging into tiktok using google#
 
 ###  GitHub
 # Core GitHub Services
