@@ -191,6 +191,7 @@ d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Netflix content e
 secure.netflix.com #used for secure connections and user authentication#  
 nflxext.com #for extended services like testing#
 nflxso.net #static content#
+nflximg.net #used for serving images and video thumbnails#  
 
 ### Reddit
 reddit.com
