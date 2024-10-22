@@ -223,6 +223,7 @@ fb.com #shortened domain for Facebook services#
 # Facebook Content Delivery Network #CDN#
 fbcdn.net #primary CDN for Facebook-hosted content#
 akamaihd.net #Akamai CDN used for Facebook#
+fbcdn-akamaihd.net
 # Facebook Watch Domains
 fb.watch #video platform for Facebook Watch#
 fbwat.ch #alternate domain for Facebook Watch#
