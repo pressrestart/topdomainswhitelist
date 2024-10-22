@@ -181,9 +181,8 @@ d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Disney+ content e
 disneyplus-static.com #serves static assets like images and scripts for the Disney+ platform#  
 disney-plus.net #serves static assets like images and scripts for the Disney+ platform#
 bamgrid.com #serves static assets like images and scripts for the Disney+ platform#
-media.dssott.com
-prod.dssedge.com
-disney.connections.edge.bamgrid.com
+media.dssott.com #serves static assets like images and scripts for the Disney+ platform#
+prod.dssedge.com #serves static assets like images and scripts for the Disney+ platform#
 
 ### Netflix
 # Core Netflix Services
