@@ -161,6 +161,7 @@ muscdn.com #historically associated with Musical.ly, now used by TikTok#
 bytedance.com #TikTok's parent company#
 bytedance.net
 p16-tiktokcdn-com.akamaized.net #for hosting and CDN purposes#
+sf16-website-login.neutral.ttwstatic.com #For logging in#
 v16-webapp-prime.tiktok.com.edgesuite.net #For logging into tiktok using google#
 v16-webapp-prime.tiktok.com.bytegeo.akadns.net #For logging into tiktok using google#
 
@@ -216,7 +217,6 @@ cdn.cms-twdigitalassets.com
 # Core WhatsApp Services
 whatsapp.com #Main domain for app and services#
 whatsapp.net #Supports media transfers and connection management#
-
 # WhatsApp CDNs and Other Services
 whatsapp-cdn-shv-02-lga3.fbcdn.net #Content delivery network for media and app resources#
 gslb.pphosted.com #Mail exchange servers used for email handling and security purposes#
@@ -621,8 +621,6 @@ nyt.com # Static assets like images, scripts, and stylesheets #
 # Core Wikia Services
 wikia.org # Main platform for wikis and fan communities #
 fandom.com # Rebranded main website #
-www.wikia.org # Common subdomain for the main website #
-www.fandom.com # Common subdomain for the rebranded website #
 # Content Delivery Networks (CDNs)
 wikia.nocookie.net # Image delivery and hosting #
 
@@ -870,7 +868,6 @@ vimeocdn.com
 ### Quizlet
 # Core Quizlet Services
 quizlet.com # Main website for learning tools and flashcards #
-www.quizlet.com # Common subdomain for the main website #
 # Content Delivery Networks (CDNs)
 quizlet.cdn.com # Likely used for static assets, images, and learning materials #
 images.prismic.io
@@ -926,7 +923,6 @@ samsungapps.com # Samsung's app store, sometimes used to deliver update-related 
 ### shopee.com
 # Core Shopee Services
 shopee.com # Main website for browsing and purchasing products #
-www.shopee.com # Common subdomain for accessing the main website #
 # Regional Shopee Websites
 shopee.sg # Shopee Singapore #
 shopee.co.id # Shopee Indonesia #
