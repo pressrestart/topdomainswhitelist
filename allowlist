@@ -164,6 +164,9 @@ p16-tiktokcdn-com.akamaized.net #for hosting and CDN purposes#
 sf16-website-login.neutral.ttwstatic.com #For logging in#
 v16-webapp-prime.tiktok.com.edgesuite.net #For logging into tiktok using google#
 v16-webapp-prime.tiktok.com.bytegeo.akadns.net #For logging into tiktok using google#
+a72-247-40-27.deploy.static.akamaitechnologies.com
+a72-247-40-27.deploy.static.akamaitechnologies.com #twitter login#
+e28622.a.akamaiedge.net
 
 ###  GitHub
 # Core GitHub Services
