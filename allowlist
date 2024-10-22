@@ -24,6 +24,7 @@ firebase.google.com #Firebase backend services#
 appspot.com #Google App Engine hosting#
 #cloudflare.net #occasionally used in conjunction with Google services#
 # Regional and Specific Product Domains
+gmail.com #Gmail services#
 mail.google.com #Gmail services#
 news.google.com #Google News#
 drive.google.com #Google Drive#
