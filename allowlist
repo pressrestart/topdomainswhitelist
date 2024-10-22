@@ -893,6 +893,7 @@ citi.com # Main website for banking services #
 # Core AliExpress Services
 aliexpress.com #Main website for browsing and purchasing products#
 # Content Delivery Networks (CDNs) and Resources
+aliexpress-media.com #Images#
 alicdn.com #Primary CDN for images, scripts, and other assets#
 # Payment and Tracking Services
 alipay.com #AliExpress's payment platform#
