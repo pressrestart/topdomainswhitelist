@@ -167,21 +167,21 @@ sf16-website-login.neutral.ttwstatic.com #For logging in#
 v16-webapp-prime.tiktok.com.edgesuite.net #For logging into tiktok using google#
 v16-webapp-prime.tiktok.com.bytegeo.akadns.net #For logging into tiktok using google#
 
-###  GitHub
+###GitHub
 # Core GitHub Services
-github.com #core GitHub services and repository hosting#  
-github.io #GitHub Pages for hosting static websites#  
-githubusercontent.com #for serving content directly from GitHub#  
+github.com #core GitHub services and repository hosting#
+github.io #GitHub Pages for hosting static websites#
+githubusercontent.com #for serving content directly from GitHub#
 githubassets.com
 # GitHub Actions and CI/CD Services
-github-actions.com #for GitHub Actions services#  
+github-actions.com #for GitHub Actions services#
 
 ### Disney+
 # Core Disney+ Services
-disneyplus.com #main website for Disney+ streaming service, offering movies, TV shows, and original content#  
-dssott.com #used for streaming video content, serving as a CDN for Disney+#  
-d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Disney+ content efficiently#  
-disneyplus-static.com #serves static assets like images and scripts for the Disney+ platform#  
+disneyplus.com #main website for Disney+ streaming service, offering movies, TV shows, and original content#
+dssott.com #used for streaming video content, serving as a CDN for Disney+#
+d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Disney+ content efficiently#
+disneyplus-static.com #serves static assets like images and scripts for the Disney+ platform#
 disney-plus.net #serves static assets like images and scripts for the Disney+ platform#
 bamgrid.com #serves static assets like images and scripts for the Disney+ platform#
 media.dssott.com #serves static assets like images and scripts for the Disney+ platform#
@@ -189,11 +189,11 @@ prod.dssedge.com #serves static assets like images and scripts for the Disney+ p
 
 ### Netflix
 # Core Netflix Services
-netflix.com #main website for Netflix streaming service, offering movies, TV shows, and original content#  
-nflximg.net #used for serving images and video thumbnails#  
-nflxvideo.net #used for streaming video content#  
-d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Netflix content efficiently#  
-secure.netflix.com #used for secure connections and user authentication#  
+netflix.com #main website for Netflix streaming service, offering movies, TV shows, and original content#
+nflximg.net #used for serving images and video thumbnails#
+nflxvideo.net #used for streaming video content#
+d1l3u2gf4k6o5c.cloudfront.net #a CloudFront URL for delivering Netflix content efficiently#
+secure.netflix.com #used for secure connections and user authentication#
 nflxext.com #for extended services like testing#
 nflxso.net #static content# 
 
@@ -383,109 +383,109 @@ telegram-cdn.org
 
 ### ChatGPT
 # Core ChatGPT Services
-openai.com #Main OpenAI website and services#  
+openai.com #Main OpenAI website and services#
 chatgpt.com
 sharegpt.com #Platform for sharing ChatGPT conversations#
 # ChatGPT CDN and Supporting Services
 oaistatic.com
-cdn.openai.com #Content delivery network for OpenAI-related services#  
-cdn.jsdelivr.net #JavaScript libraries for OpenAI/ChatGPT services#  
+cdn.openai.com #Content delivery network for OpenAI-related services#
+cdn.jsdelivr.net #JavaScript libraries for OpenAI/ChatGPT services#
 chat.openai.com.cdn.cloudflare.net #CDN used for OpenAI-related services#
 # ChatGPT API and Integrations
 api.openai.com #API endpoint for ChatGPT and OpenAI integrations#
 
 ### LinkedIn
-# Core LinkedIn Services  
+# Core LinkedIn Services
 linkedin.com #Main LinkedIn website and services#
-# LinkedIn CDN and Supporting Services  
-licdn.com #LinkedIn's content delivery network for images and media#  
-lnkd.in #URL shortener used by LinkedIn for shared links#  
+# LinkedIn CDN and Supporting Services
+licdn.com #LinkedIn's content delivery network for images and media#
+lnkd.in #URL shortener used by LinkedIn for shared links#
 cdn.linkedin.oribi.io #Analytics and tracking services used by LinkedIn#
 
-### Microsoft Office  
-# Core Office Services  
+### Microsoft Office
+# Core Office Services
 office.com #Main portal for Microsoft Office services#
-# Office CDN and Supporting Services  
-msocdn.com #Microsoft Office's content delivery network for resources and assets#  
-officecdn.microsoft.com #Microsoft Office CDN for software updates and downloads#  
-live.com #Supporting service for Microsoft account authentication, including Office access#  
+# Office CDN and Supporting Services
+msocdn.com #Microsoft Office's content delivery network for resources and assets#
+officecdn.microsoft.com #Microsoft Office CDN for software updates and downloads#
+live.com #Supporting service for Microsoft account authentication, including Office access#
 msftstatic.com #Static resources and assets for Microsoft Office services# 
 
-### Weather.com  
-# Core Weather Services  
+### Weather.com
+# Core Weather Services
 weather.com #Main portal for The Weather Channel services#
 
-# Weather CDN and Supporting Services  
-s.w-x.co #The Weather Channel's content delivery network for images and media#  
-twcweather.com #Supporting services and assets for The Weather Channel#  
-api.weather.com #API for accessing weather data and services#  
+# Weather CDN and Supporting Services
+s.w-x.co #The Weather Channel's content delivery network for images and media#
+twcweather.com #Supporting services and assets for The Weather Channel#
+api.weather.com #API for accessing weather data and services#
 weather.tiles.virtualearth.net #Map tiles and data for weather maps (from Microsoft's Virtual Earth platform)#
 
-### Quora  
-# Core Quora Services  
+### Quora
+# Core Quora Services
 quora.com #Main portal for Quora's question-and-answer platform#
-# Quora CDN and Supporting Services  
-qsf.ec.quoracdn.net #Quora's content delivery network for static assets and media#  
-quoracdn.net #General CDN for Quora's content#  
+# Quora CDN and Supporting Services
+qsf.ec.quoracdn.net #Quora's content delivery network for static assets and media#
+quoracdn.net #General CDN for Quora's content#
 quora-marketing.s3.amazonaws.com #Amazon S3 storage used for Quora's marketing content#
 
-### Fandom  
-# Core Fandom Services  
+### Fandom
+# Core Fandom Services
 fandom.com #Main portal for Fandom's wiki and community services#
-# Fandom CDN and Supporting Services  
-fandom-static.com #Fandom's content delivery network for static assets and resources#  
-wikia-services.com #Supporting services and media hosting for Fandom (formerly Wikia)#  
-fandom.wikia.com #Legacy CDN and supporting services from Wikia#  
+# Fandom CDN and Supporting Services
+fandom-static.com #Fandom's content delivery network for static assets and resources#
+wikia-services.com #Supporting services and media hosting for Fandom (formerly Wikia)#
+fandom.wikia.com #Legacy CDN and supporting services from Wikia#
 
-### Bing  
-# Core Bing Services  
+### Bing
+# Core Bing Services
 bing.com #Main portal for Bing's search engine and services#
-# Bing CDN and Supporting Services  
-bing.net #Content delivery network for Bing's search engine assets and resources#  
-virtualearth.net #CDN used for Bing Maps tiles and data#  
-microsoft.com #Related services and support for Bing (since it’s owned by Microsoft)#  
+# Bing CDN and Supporting Services
+bing.net #Content delivery network for Bing's search engine assets and resources#
+virtualearth.net #CDN used for Bing Maps tiles and data#
+microsoft.com #Related services and support for Bing (since it’s owned by Microsoft)#
 assets.msn.com
 login.microsoftonline.com
 
-### DuckDuckGo  
-# Core DuckDuckGo Services  
+### DuckDuckGo
+# Core DuckDuckGo Services
 duckduckgo.com #Main portal for DuckDuckGo's privacy-focused search engine#
-# DuckDuckGo CDN and Supporting Services  
-duckduckgocdn.com #Content delivery network for DuckDuckGo assets and resources#  
+# DuckDuckGo CDN and Supporting Services
+duckduckgocdn.com #Content delivery network for DuckDuckGo assets and resources#
 ddg.gg #Shortened URL and redirection service used by DuckDuckGo# 
 
-### Live  
-# Core Live Services  
-live.com #Main portal for Microsoft's online services, including email and Office#  
-hotmail.com #Legacy email service now integrated with Outlook#  
-outlook.com #Current email service for Microsoft users, previously linked to Live#  
-# Live CDN and Supporting Services  
-live.net #Alternative domain for accessing Microsoft services#  
-cdn.live.com #Content delivery network for Live services' static resources#  
-static.live.com #Supporting CDN for images and media associated with Live services#  
-profile.live.com #User profile management for Microsoft accounts#  
+### Live
+# Core Live Services
+live.com #Main portal for Microsoft's online services, including email and Office#
+hotmail.com #Legacy email service now integrated with Outlook#
+outlook.com #Current email service for Microsoft users, previously linked to Live#
+# Live CDN and Supporting Services
+live.net #Alternative domain for accessing Microsoft services#
+cdn.live.com #Content delivery network for Live services' static resources#
+static.live.com #Supporting CDN for images and media associated with Live services#
+profile.live.com #User profile management for Microsoft accounts#
 
-### Office  
-# Core Office Services  
-office.com #Main portal for Microsoft Office applications and services#  
-microsoft.com #Microsoft's main website, offering links to Office and other services#  
-# Office CDN and Supporting Services  
-officecdn.microsoft.com #Content delivery network for Microsoft Office installation files and updates#  
-static.office.com #CDN for static resources and images associated with Office#  
-outlook.office.com #Web-based version of Outlook integrated with Office services#  
-sharepoint.com #Platform for collaboration and file sharing within Office#  
+### Office
+# Core Office Services
+office.com #Main portal for Microsoft Office applications and services#
+microsoft.com #Microsoft's main website, offering links to Office and other services#
+# Office CDN and Supporting Services
+officecdn.microsoft.com #Content delivery network for Microsoft Office installation files and updates#
+static.office.com #CDN for static resources and images associated with Office#
+outlook.office.com #Web-based version of Outlook integrated with Office services#
+sharepoint.com #Platform for collaboration and file sharing within Office#
 onedrive.com #Cloud storage service associated with Office and Microsoft accounts# 
 
-### Microsoft Online  
-# Core Microsoft Online Services  
-microsoftonline.com #Main portal for Microsoft Online services, including Azure and Office 365#  
-office.com #Portal for Microsoft Office applications and services, linked with Microsoft Online#  
+### Microsoft Online
+# Core Microsoft Online Services
+microsoftonline.com #Main portal for Microsoft Online services, including Azure and Office 365#
+office.com #Portal for Microsoft Office applications and services, linked with Microsoft Online#
 
-# Microsoft Online CDN and Supporting Services  
-officecdn.microsoft.com #Content delivery network for Microsoft Office installation files and updates#  
-login.microsoftonline.com #Authentication service for Microsoft accounts and services#  
-portal.office.com #Access point for Office 365 applications and services#  
-graph.microsoft.com #API endpoint for Microsoft Graph, connecting to Microsoft Online services#  
+# Microsoft Online CDN and Supporting Services
+officecdn.microsoft.com #Content delivery network for Microsoft Office installation files and updates#
+login.microsoftonline.com #Authentication service for Microsoft accounts and services#
+portal.office.com #Access point for Office 365 applications and services#
+graph.microsoft.com #API endpoint for Microsoft Graph, connecting to Microsoft Online services#
 
 ### OpenWRT
 openwrt.org #Main portal for OpenWRT's open-source router firmware#
@@ -497,7 +497,7 @@ pi-hole.com #Alternate domain for Pi-hole services#
 ### Temu
 temu.com #Main portal for Temu's online shopping platform#
 temu.co #Alternative domain for Temu services#
-# Temu CDN and Supporting Services  
+# Temu CDN and Supporting Services
 d2f3m94x9sz4j1.cloudfront.net
 temucdn.com
 kwcdn.com
@@ -943,41 +943,41 @@ superuser.com
 cdn.sstatic.net
 
 ### Goodreads
-# Core GoodReads Services  
+# Core GoodReads Services
 goodreads.com
 # Static content
 gr-assets.com
 
-### Reuters  
-# Core Reuters Services  
+### Reuters
+# Core Reuters Services
 reuters.com #Main portal for Reuters news and articles#
-# Reuters CDN and Supporting Services  
-assets.prod.reuters.tv #Hosts Reuters TV images and video player assets#  
+# Reuters CDN and Supporting Services
+assets.prod.reuters.tv #Hosts Reuters TV images and video player assets#
 static.reutersmedia.net #CDN for additional static content like fonts, CSS files#
 
-### Wall Street Journal  
-# Core Services:  
+### Wall Street Journal
+# Core Services:
 wsj.com #Main portal for The Wall Street Journal, featuring news, business, and financial reporting#
-# Wall Street Journal CDN and Supporting Services  
-cdn.mxpnl.com #Mixpanel analytics for tracking user interaction data#  
+# Wall Street Journal CDN and Supporting Services
+cdn.mxpnl.com #Mixpanel analytics for tracking user interaction data#
 s3.amazonaws.com #Amazon S3 storage for static assets and files used by WSJ#
 
-### USA Today  
-# Core Services:  
+### USA Today
+# Core Services:
 usatoday.com #Main portal for USA Today, featuring national news, sports, entertainment, and lifestyle content#
 
-### CBS News  
-# Core Services:  
+### CBS News
+# Core Services:
 cbsnews.com #Main portal for CBS News, providing national and world news, politics, and entertainment coverage#
 
-### The Hacker News  
-# Core Services:  
+### The Hacker News
+# Core Services:
 thehackernews.com #Main portal for The Hacker News, featuring cybersecurity news, analysis, and reports#
 # Images
 blogger.googleusercontent.com
 
-### Hacker News (Y Combinator News)  
-# Core Services:  
+### Hacker News (Y Combinator News)
+# Core Services:
 news.ycombinator.com #Main portal for Hacker News, featuring tech news, startups, and entrepreneurship discussions#
 
 ### PlayStation Network
@@ -986,15 +986,99 @@ playstation.com #main PlayStation website for account management and game browsi
 playstation.net #domain for PlayStation's main network services#
 sonyentertainmentnetwork.com #legacy domain for Sony Entertainment Network services#
 
-### Nintendo Online Services  
-# Core Nintendo Services  
-nintendo.com #main website for Nintendo services and products#  
-nintendo.net #network services domain for online gaming and connections#  
-nintendo.co.jp #Japanese Nintendo site for region-specific services#  
+### Nintendo Online Services
+# Core Nintendo Services
+nintendo.com #main website for Nintendo services and products#
+nintendo.net #network services domain for online gaming and connections#
+nintendo.co.jp #Japanese Nintendo site for region-specific services#
 
-### Xbox Services  
-# Core Xbox Services  
-xbox.com #main website for Xbox services, account management, and game browsing#  
-microsoft.com #Microsoft’s core domain, covering Xbox account authentication and services#  
-# Xbox APIs and Services #specific subdomains#  
-xboxlive.com #content catalog and search for the Xbox store#  
+### Xbox Services
+# Core Xbox Services
+xbox.com #main website for Xbox services, account management, and game browsing#
+microsoft.com #Microsoft’s core domain, covering Xbox account authentication and services#
+# Xbox APIs and Services #specific subdomains#
+xboxlive.com #content catalog and search for the Xbox store#
+
+### Medium
+medium.com
+
+### Gizmodo
+# Core Gizmodo Services
+gizmodo.com #main platform for news, reviews, and technology coverage#
+gizmodo.co.uk #regional site for UK-specific content#
+
+### XDA Developers
+# Core XDA Services
+xda-developers.com #main platform for forums, news, and tutorials on mobile development# 
+
+### Tom's Hardware
+# Core Tom’s Hardware Services
+tomshardware.com #main platform for tech news, reviews, and tutorials#
+
+### The Verge
+# Core Verge Services
+theverge.com #tech, science, and culture news, with reviews and analysis#
+
+### TechCrunch
+# Core TechCrunch Services
+techcrunch.com #startup news, technology, and venture capital updates#
+
+### Wired
+# Core Wired Services
+wired.com #long-form journalism on tech, business, and science#
+
+### Ars Technica
+# Core Ars Technica Services
+arstechnica.com #in-depth coverage of technology, policy, and science#
+
+### CNET
+# Core CNET Services
+cnet.com #product reviews, buying guides, and consumer tech news#
+
+### Mashable
+# Core Mashable Services
+mashable.com #tech, entertainment, and culture news#
+
+### Engadget
+# Core Engadget Services
+engadget.com #gadgets, tech reviews, and industry news#
+
+### PCMag
+# Core PCMag Services
+pcmag.com #product reviews and software recommendations#
+
+### Digital Trends
+# Core Digital Trends Services
+digitaltrends.com #consumer tech news, reviews, and lifestyle technology#
+
+### Android Authority
+# Core Android Authority Services
+androidauthority.com #Android news, reviews, and app recommendations#
+
+### 9to5Mac
+# Core 9to5Mac Services
+9to5mac.com #Apple product news and rumors#
+
+### MacRumors
+# Core MacRumors Services
+macrumors.com #rumors and news about Apple devices#
+
+### WebMD  
+# Core WebMD Services  
+webmd.com #health information, symptoms checker, and medical advice#  
+
+### Mayo Clinic  
+# Core Mayo Clinic Services  
+mayoclinic.org #medical advice, disease guides, and health resources#  
+
+### Healthline  
+# Core Healthline Services  
+healthline.com #health topics, wellness advice, and nutrition tips#  
+
+### CDC (Centers for Disease Control and Prevention)  
+# Core CDC Services  
+cdc.gov #public health data, disease control guidelines, and outbreak tracking#  
+
+### NIH (National Institutes of Health)  
+# Core NIH Services  
+nih.gov #scientific research, public health information, and medical resources#  
