@@ -57,7 +57,7 @@ youtubei.googleapis.com #interface for YouTube data and video metadata#
 # Content Delivery Networks #CDN# and Media Hosting
 pds-redirector-prod2.s3.amazonaws.com #sometimes used for redirecting traffic through Amazon S3#
 # Advertising and Tracking
-doubleclick.net #for serving ads on YouTube#
+#doubleclick.net #for serving ads on YouTube#
 youtube-nocookie.com #an alternate version of YouTube that does not use cookies for tracking#
 # Google APIs and Services #specific to YouTube#
 youtube.googleapis.com #API for interacting with YouTube data#
@@ -152,9 +152,9 @@ tiktokcdn-live.com
 bytecdn.cn
 byteoversea.com
 ibyteimg.com
+ttwstatic.com
 # Tracking and Analytics
 tiktokv.com
-ttwstatic.com
 log.tiktokv.com
 # Third-Party Services and APIs
 muscdn.com #historically associated with Musical.ly, now used by TikTok#
