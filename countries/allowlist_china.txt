@@ -6,7 +6,7 @@ tmall.com #B2C e-commerce platform for brands and retailers#
 # Core Baidu Services
 baidu.com #main search engine and platform#
 baidu.net #related services and applications#
-baidu-cc.com #content delivery network related to Baidu services#
+baidu-cc.com #Content delivery network related to Baidu services#
 bdstatic.com #Primary CDN for static content such as images, scripts, and stylesheets#
 
 ### Tencent QQ
