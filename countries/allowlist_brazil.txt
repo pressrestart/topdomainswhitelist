@@ -39,3 +39,35 @@ kabum.com.br #electronics and computer hardware retailer#
 ### Tudogostoso
 # Core Services:
 tudogostoso.com.br #food and recipe platform#
+
+### News Websites
+globo.com #leading general news and media portal#
+uol.com.br #diverse coverage of news, sports, and entertainment#
+folha.uol.com.br #Folha de S.Paulo's online version#
+terra.com.br #news and entertainment focused#
+g1.globo.com #breaking news, a branch of Globo#
+extra.globo.com #Globo's focus on popular news and entertainment#
+r7.com #news portal with a focus on TV Record's content#
+estadao.com.br #from O Estado de S. Paulo, political and business news#
+bbc.com/portuguese #BBC's Portuguese-language service#
+band.uol.com.br #Band network's news coverage#
+gazetadopovo.com.br #conservative-leaning news portal#
+jovempan.com.br #radio station turned multimedia news platform#
+correiobraziliense.com.br #Brasília-based coverage#
+veja.abril.com.br #online magazine with news and opinion#
+cartacapital.com.br #progressive news and political analysis#
+atarde.com.br #regional news from Bahia#
+diariodonordeste.verdesmares.com.br #Northeast Brazil-focused portal#
+jornalopcao.com.br #local news from Goiás#
+metropoles.com #emerging digital news platform#
+valor.globo.com #financial news from Globo's Valor Econômico#
+opovo.com.br #news portal based in Ceará#
+oglobo.globo.com #O Globo newspaper’s digital version#
+tribunapr.uol.com.br #local news from Paraná#
+estacion.com.br #economic and financial news#
+banda.uol.com.br #TV Band's online portal#
+ne10.uol.com.br #Northeastern-focused portal by UOL#
+mixvale.com.br #regional news with growing popularity#
+tnh1.com.br #Alagoas-based news site#
+jornalnh.com.br #local news from Novo Hamburgo#
+folhape.com.br #focused on Pernambuco and the Northeast#
