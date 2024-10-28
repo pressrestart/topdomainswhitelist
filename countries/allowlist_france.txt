@@ -37,3 +37,35 @@ lequipe.fr #The top sports news website in France, covering various sports inclu
 ### 20 Minutes
 # Core Services:
 20minutes.fr #A free news platform offering quick, easy-to-read articles on politics, world events, entertainment, and lifestyle.#
+
+### News Websites
+lemonde.fr #general news and in-depth analysis#  
+lefigaro.fr #politics, business, and culture#  
+francetvinfo.fr #public media with live news updates#  
+bfmtv.com #24/7 breaking news coverage#  
+liberation.fr #progressive daily news and opinion#  
+nouvelobs.com #politics, culture, and lifestyle#  
+lci.fr #continuous news coverage from TF1 Group#  
+rtl.fr #radio and online news services#  
+20minutes.fr #short-form news and local updates#  
+rfi.fr #international and French news#  
+france24.com #multilingual news service#  
+cnews.fr #right-leaning continuous news channel#  
+mediapart.fr #investigative journalism and reports#  
+lavoixdunord.fr #regional news from northern France#  
+leparisien.fr #national and local news from Paris#  
+ouest-france.fr #western France regional news#  
+sudouest.fr #southwest regional news and updates#  
+ladepeche.fr #Toulouse and surrounding regions#  
+nice-matin.com #news from the Côte d'Azur#  
+corsenetinfos.corsica #news from Corsica#  
+estrepublicain.fr #news from eastern France#  
+la-croix.com #Catholic daily with general news#  
+lesinrocks.com #cultural and entertainment news#  
+challenges.fr #business, economy, and tech news#  
+public.fr #celebrity news and lifestyle#  
+atlantico.fr #conservative news and opinion#  
+boursorama.com #financial and economic news#  
+gala.fr #celebrity and entertainment news#  
+telerama.fr #TV, arts, and media criticism#  
+voici.fr #gossip and celebrity news#
