@@ -37,3 +37,21 @@ mediaset.it #The website for Italy’s largest private broadcaster, *Mediaset* o
 ### Il Fatto Quotidiano
 # Core Services:
 ilfattoquotidiano.it #An independent newspaper website, *Il Fatto Quotidiano* focuses on investigative journalism, covering political, economic, and societal issues in Italy.#
+
+### News Websites
+ansa.it #Italy's leading news agency providing comprehensive news coverage#  
+corriere.it #One of Italy's oldest and most respected newspapers with national and international news#  
+repubblica.it #Progressive daily covering politics, culture, and current events#  
+lastampa.it #Broad spectrum coverage from one of Italy's major newspapers based in Turin#  
+tg24.sky.it #24-hour news service offering diverse coverage across various topics#  
+rainews.it #Italian public broadcasting news service with live updates#  
+ilmessaggero.it #Major newspaper covering news in Rome and nationwide#  
+gazzettadiparma.it #Local news focused on the Parma region#  
+quotidiano.net #Popular news platform covering various topics from sports to politics#  
+internazionale.it #Brings translated articles from around the world, offering diverse perspectives#  
+ilsole24ore.com #Leading financial newspaper focusing on economy and business#  
+huffingtonpost.it #Italian version of the popular news and opinion platform#  
+liberoquotidiano.it #Focus on politics and culture with a unique editorial stance#  
+fanpage.it #Digital news platform known for its engaging content and news coverage#  
+ilpost.it #Offers straightforward news updates with a clear writing style#  
+dagospia.com #Popular for gossip and entertainment news with a satirical approach#  
