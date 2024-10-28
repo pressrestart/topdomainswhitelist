@@ -37,3 +37,35 @@ as.com #As is another popular sports website in Spain, covering football, tennis
 ### InfoJobs
 # Core Services:
 infojobs.net #InfoJobs is Spain's largest employment portal, connecting job seekers with employers across various industries and offering career advice and resources.#
+
+### News Websites
+elmundo.es #leading national daily news site#  
+rtve.es #public television and radio news platform#  
+lavanguardia.com #general news and opinion from Catalonia#  
+elpais.com #influential Spanish newspaper with international reach#  
+abc.es #conservative-leaning news outlet#  
+okdiario.com #right-leaning online news#  
+elconfidencial.com #digital news focused on business and politics#  
+elespanol.com #modern digital newspaper#  
+20minutos.es #free newspaper with general news#  
+eldiario.es #progressive online daily#  
+marca.com #sports-focused news, especially football#  
+as.com #sports news outlet, known for Real Madrid coverage#  
+cadenaser.com #radio network with news sections#  
+expansion.com #business and financial news#  
+publico.es #left-leaning news portal#  
+canarias7.es #regional news from the Canary Islands#  
+lavozdegalicia.es #leading newspaper in Galicia#  
+diariovasco.com #regional news from the Basque Country#  
+diariodenavarra.es #news from the Navarra region#  
+heraldo.es #leading paper in Aragón#  
+diariocordoba.com #regional paper in Córdoba#  
+sur.es #regional news for Andalusia#  
+ultimahora.es #news from the Balearic Islands#  
+elnortedecastilla.es #regional paper for Castilla y León#  
+farodevigo.es #Galician news and opinion#  
+ara.cat #news from a Catalan perspective#  
+regio7.cat #regional Catalan news#  
+menorca.info #news from Menorca#  
+diarioinformacion.com #local news from Alicante#  
+laverdad.es #regional news from Murcia and nearby regions#  
