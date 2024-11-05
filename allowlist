@@ -1091,3 +1091,9 @@ archive.org
 # CDN and Static Content
 openlibrary.org
 assets.msn.com
+
+### Letterboxd
+# Core Letterboxd.com Services
+ltrbxd.com
+# CDN and Static Content
+letterboxd.com
